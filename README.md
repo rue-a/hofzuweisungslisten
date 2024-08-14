@@ -12,12 +12,12 @@ The dataset was derived from around 750 scanned pages containing mostly tabular 
 The dataset comprises 4838 records with 21 fields and is provided as CSV (Comma-Separated-Values). Empty fields denote that no information was present in the original document. The field names correspond as far as possible to the field names in the original documents.
 
 > [!NOTE]
-> Despite extensive manual curation efforts, the dataset isn't free from erroneous data. Please have a look at the GitHub issues.
+> Despite extensive manual curation efforts, the dataset isn't free from erroneous data. **Please inspect the GitHub issues**.
 
 | Field Name                | Data Type | Description |
 |---------------------------|-----------|-------------|
-| **Signatur**              | String    | Signature string derived from the filename of the scanned sheet (*filename = <signature_string>_<sheet_number>*).|
-| **Blattnummer**           | Integer   | Sheet number derived from the filename of the scanned sheet (*filename = <signature_string>_<sheet_number>*). |
+| **signature**             | String    | Signature string derived from the filename of the scanned sheet (*filename = <signature_string>_<sheet_number>*).|
+| **sheet_number**          | Integer   | Sheet number derived from the filename of the scanned sheet (*filename = <signature_string>_<sheet_number>*). |
 | **Datum_Liste**           | Date      | Date when the list was created or documented. |
 | **Datum_Ansiedlung**      | Date      | Date of resettlement event. |
 | **Ansiedlungsdorf**       | String    | Name of the settlement village. |
@@ -32,7 +32,7 @@ The dataset comprises 4838 records with 21 fields and is provided as CSV (Comma-
 | **Umsiedlungsnummer**     | String    | Resettlement number assigned to the individual or family (Germans). |
 | **Vomi-Kenn-Nummer**      | String    | VoMi identification number. |
 | **Kopfzahl_der_Familie**  | Integer   | Number of family members (German Settlers). |
-| **Hofnummer**             | String    | Farm or homestead number. |
+| **Hofnummer**             | String    | Farm or homestead identification number. |
 | **Ehemalige_Besitzer**    | String    | Previous owner(s) of the property. |
 | **Kopfzahl_ehemalige_Besitzer** | Integer | Number of individuals in the previous owner's family. |
 | **Bemerkung**             | String    | Additional remarks or comments regarding the record. |
