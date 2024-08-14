@@ -16,8 +16,8 @@ The dataset comprises 4838 records with 21 fields and is provided as CSV (Comma-
 
 | Field Name                | Data Type | Description |
 |---------------------------|-----------|-------------|
-| **Signatur**              | String    | Signature string of the scanned file name (*filename = <signature_string>_<sheet_number>*).|
-| **Blattnummer**           | Integer   | Sheet number of the scanned file name (*filename = <signature_string>_<sheet_number>*). |
+| **Signatur**              | String    | Signature string derived from the filename of the scanned sheet (*filename = <signature_string>_<sheet_number>*).|
+| **Blattnummer**           | Integer   | Sheet number derived from the filename of the scanned sheet (*filename = <signature_string>_<sheet_number>*). |
 | **Datum_Liste**           | Date      | Date when the list was created or documented. |
 | **Datum_Ansiedlung**      | Date      | Date of resettlement event. |
 | **Ansiedlungsdorf**       | String    | Name of the settlement village. |
