@@ -1,0 +1,2726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pc:PcGts xmlns:pc="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <pc:Metadata>
+        <pc:Creator>OCR-D/core 2.49.0</pc:Creator>
+        <pc:Created>2023-11-08T18:15:00.276478</pc:Created>
+        <pc:LastChange>2023-11-08T18:15:00.276478</pc:LastChange>
+    </pc:Metadata>
+    <pc:Page imageFilename="OCR-D-IMG/OCR-D-IMG_Lodz_UZS_28_0108.tif" imageWidth="2479" imageHeight="3509">
+        <pc:ReadingOrder>
+            <pc:OrderedGroup id="line_reading_order" comments="Reading order of lines as defined by Textract.">
+                <pc:RegionRefIndexed index="0" regionRef="line-region-b599ffbc-5280-4d0b-91fb-947360475656"/>
+                <pc:RegionRefIndexed index="1" regionRef="line-region-44dce26c-b6ad-4416-82c1-16ad152a1dcd"/>
+                <pc:RegionRefIndexed index="2" regionRef="line-region-3a1fd62a-0b27-41a4-9318-c4ec0829303a"/>
+                <pc:RegionRefIndexed index="3" regionRef="line-region-02d9df64-f928-4ca3-8dbe-df31a6a6dc66"/>
+                <pc:RegionRefIndexed index="4" regionRef="line-region-1a9b27c8-1824-4421-bc6d-146619e6cc67"/>
+                <pc:RegionRefIndexed index="5" regionRef="line-region-170fcc72-ac46-4dcc-9faf-7cdea0ba380a"/>
+                <pc:RegionRefIndexed index="6" regionRef="line-region-a853d8e9-4339-436c-9e04-067195b14b02"/>
+                <pc:RegionRefIndexed index="7" regionRef="line-region-6772c344-cfdd-45af-b7ba-8ece1faec293"/>
+                <pc:RegionRefIndexed index="8" regionRef="line-region-6a8ea632-eb8b-4784-abec-11463f91f4bf"/>
+                <pc:RegionRefIndexed index="9" regionRef="line-region-649ab752-b3dd-48e3-b866-7ac6b7a775bf"/>
+                <pc:RegionRefIndexed index="10" regionRef="line-region-445dc869-3ef0-45e5-b961-89970c661a35"/>
+                <pc:RegionRefIndexed index="11" regionRef="line-region-9ef34fb8-7b57-47c4-92b9-f6cb9cf1c9d8"/>
+                <pc:RegionRefIndexed index="12" regionRef="line-region-918b488f-cdb6-40b0-b7c7-c6a738403c1e"/>
+                <pc:RegionRefIndexed index="13" regionRef="line-region-5bd461d9-45b2-4c21-9977-4f0511bea0cc"/>
+                <pc:RegionRefIndexed index="14" regionRef="line-region-1fbf7619-4610-4f39-be76-178f1b566830"/>
+                <pc:RegionRefIndexed index="15" regionRef="line-region-acdfb29f-2711-4765-8413-fa5f285f7759"/>
+                <pc:UnorderedGroupIndexed id="table_cff8e490-cbec-4031-9f1b-2b09129e522d_reading_order" index="16" comments="Reading order of this table.">
+                    <pc:RegionRef regionRef="cell-region-6bd8954f-3a9d-49f7-b238-f9ae4ed236fa"/>
+                    <pc:RegionRef regionRef="cell-region-ca297b99-c2a4-42b0-88cd-b48188ec7935"/>
+                    <pc:RegionRef regionRef="cell-region-14d433a1-c20b-4de8-babd-dd226c4b7a47"/>
+                    <pc:RegionRef regionRef="cell-region-3b73897b-e216-408b-82e1-0f2202273b09"/>
+                    <pc:RegionRef regionRef="cell-region-a37e68c3-7e35-4638-bebb-77a7567b777a"/>
+                    <pc:RegionRef regionRef="cell-region-c66f2cab-cd21-4230-a256-6924ef13312b"/>
+                    <pc:RegionRef regionRef="cell-region-5edb0856-6b39-468d-baa4-9070d2c23f93"/>
+                    <pc:RegionRef regionRef="cell-region-cac325a8-b858-4af3-a117-1a8bb6374cdc"/>
+                    <pc:RegionRef regionRef="cell-region-6a1b60f6-ff61-42c3-a2ec-645def37f0bf"/>
+                    <pc:RegionRef regionRef="cell-region-a08d911f-6aa9-4c88-bc1d-71acf6bb6cb9"/>
+                    <pc:RegionRef regionRef="cell-region-ccf41a94-1cb0-4c6d-9077-8c76bb9ffb4d"/>
+                    <pc:RegionRef regionRef="cell-region-323b9647-6058-445d-bd8f-2469c3e8f028"/>
+                    <pc:RegionRef regionRef="cell-region-f698bb9d-d09e-4d5e-936e-f6e060d6a4b1"/>
+                    <pc:RegionRef regionRef="cell-region-b58bd01a-0ad2-46ae-98c3-c01a097ec68d"/>
+                    <pc:RegionRef regionRef="cell-region-106765b7-0a31-4436-ab0d-e8f5ec3dd55a"/>
+                    <pc:RegionRef regionRef="cell-region-0a5c7ed2-b92d-41d5-a475-0006d749f5be"/>
+                    <pc:RegionRef regionRef="cell-region-6f72d632-a1ce-4b3b-90ba-11b6c5f2bb30"/>
+                    <pc:RegionRef regionRef="cell-region-23f1b654-cd26-4b46-a6f6-31f504480511"/>
+                    <pc:RegionRef regionRef="cell-region-65ffc3b0-8155-4a96-a21c-8f8ccdc0b17c"/>
+                    <pc:RegionRef regionRef="cell-region-03d0c7da-9a06-4346-a36d-a206aaaf8a61"/>
+                    <pc:RegionRef regionRef="cell-region-0cc6d95e-9377-471d-bec0-812ec36f6277"/>
+                    <pc:RegionRef regionRef="cell-region-47fc0fed-c7cd-4327-93dd-f4c8dcedcf67"/>
+                    <pc:RegionRef regionRef="cell-region-624e6fd4-9797-44f5-ab3e-8f266b3d7d9d"/>
+                    <pc:RegionRef regionRef="cell-region-409020ba-ac51-41e0-b147-26805e044d88"/>
+                    <pc:RegionRef regionRef="cell-region-4a24d41e-5f58-4b26-936c-ce274d5902f5"/>
+                    <pc:RegionRef regionRef="cell-region-0c5a0fda-827a-46cc-9d2f-3a4695c4d4b6"/>
+                    <pc:RegionRef regionRef="cell-region-e5bc4255-f77e-47d3-847a-ef56a1ccb1a9"/>
+                    <pc:RegionRef regionRef="cell-region-e7738041-c9d1-4c09-8453-c29df67ae5fc"/>
+                    <pc:RegionRef regionRef="cell-region-cd4af80b-df67-4c00-adbe-a59c6470d920"/>
+                    <pc:RegionRef regionRef="cell-region-e08c8e3b-23d3-489d-8876-6d15fcfe48ad"/>
+                    <pc:RegionRef regionRef="cell-region-c24c1640-daab-4ca0-8c37-0dc5baf1b857"/>
+                    <pc:RegionRef regionRef="cell-region-d544ba12-241f-4d25-aa95-9fb97969deb2"/>
+                    <pc:RegionRef regionRef="cell-region-7c1e3a01-882c-4c98-bc25-5ca2c3fb92f7"/>
+                    <pc:RegionRef regionRef="cell-region-3d26dc39-0790-4cd0-a007-e05b692f288d"/>
+                    <pc:RegionRef regionRef="cell-region-cbbf3add-a1cd-462e-a3a2-52cbeae18cf9"/>
+                    <pc:RegionRef regionRef="cell-region-1a27b96f-5412-4551-abb2-6e9eb0304ea7"/>
+                    <pc:RegionRef regionRef="cell-region-3cb136b6-9e94-42fb-b350-8f1adde67efb"/>
+                    <pc:RegionRef regionRef="cell-region-d5559632-4918-48e2-94cd-3c21af2f059d"/>
+                    <pc:RegionRef regionRef="cell-region-2922efd9-6bd5-4ff5-a60a-19c8df2f385b"/>
+                    <pc:RegionRef regionRef="cell-region-bc014918-9430-43d6-b74d-39745054d568"/>
+                    <pc:RegionRef regionRef="cell-region-71fd6b45-7be3-4eaf-81b0-b0f6e57c815a"/>
+                    <pc:RegionRef regionRef="cell-region-60edd043-f09a-4c72-8cec-2017f825eacf"/>
+                    <pc:RegionRef regionRef="cell-region-e037c808-ed34-4547-9cf0-f50716f1ccd8"/>
+                    <pc:RegionRef regionRef="cell-region-650de297-d888-49fd-844d-958dce2ac0cd"/>
+                    <pc:RegionRef regionRef="cell-region-1d294aaa-10ec-4984-a758-c69ab2e75218"/>
+                    <pc:RegionRef regionRef="cell-region-6d6dfa0c-5b6b-407e-93c6-5104028d6e1d"/>
+                    <pc:RegionRef regionRef="cell-region-ce471a6d-2bae-458a-ada0-73367cae7c6c"/>
+                    <pc:RegionRef regionRef="cell-region-4c40e757-1a04-49be-9c7b-892fdcb0d791"/>
+                    <pc:RegionRef regionRef="cell-region-a55eb0fc-7d78-40ee-b9ad-9692f4bed9d8"/>
+                    <pc:RegionRef regionRef="cell-region-f38cc6ff-7ff8-4d04-8bed-226785d9ada7"/>
+                    <pc:RegionRef regionRef="cell-region-3dedcaec-1411-4e66-bd6d-c517c86fcc5b"/>
+                    <pc:RegionRef regionRef="cell-region-dca0cdd8-d64e-4942-a053-846efc68757e"/>
+                    <pc:RegionRef regionRef="cell-region-7ec1850b-9c03-4c3f-8278-4c08be80728c"/>
+                    <pc:RegionRef regionRef="cell-region-d63359de-e85d-4398-b115-43da441853a8"/>
+                    <pc:RegionRef regionRef="cell-region-e85a8cfc-46e2-4b3e-87d7-0d69b0b9b799"/>
+                    <pc:RegionRef regionRef="cell-region-ef8e5856-1852-461e-a1a7-09dad057971f"/>
+                    <pc:RegionRef regionRef="cell-region-e0d7c6b3-72f2-42ed-993d-295af41ec5fe"/>
+                    <pc:RegionRef regionRef="cell-region-076d04df-5bc5-41ac-ac2c-5d897c43e8ea"/>
+                    <pc:RegionRef regionRef="cell-region-af5d8190-f0ee-4f3e-82ba-7f10846e3515"/>
+                    <pc:RegionRef regionRef="cell-region-04f41fa8-6966-4787-aa71-b7edafb5f5a3"/>
+                    <pc:RegionRef regionRef="cell-region-e45f4b4c-72ff-4048-bfa0-8a286a8930c4"/>
+                    <pc:RegionRef regionRef="cell-region-e92a3970-1a89-44d2-9334-9bf44f958f6b"/>
+                    <pc:RegionRef regionRef="cell-region-0799c9e7-08bb-4364-801f-27062c78605e"/>
+                    <pc:RegionRef regionRef="cell-region-0212232c-7b55-4186-8272-431534f18f37"/>
+                    <pc:RegionRef regionRef="cell-region-91434d64-2c5c-4615-8596-7a90e6fbe01b"/>
+                    <pc:RegionRef regionRef="cell-region-1e2cb3c2-4593-49b0-b32c-8d2b19a718c3"/>
+                    <pc:RegionRef regionRef="cell-region-43a2e691-947d-4c85-84b3-d5fdf1918d92"/>
+                    <pc:RegionRef regionRef="cell-region-e12005bf-3229-497d-a575-f695d81cb38d"/>
+                    <pc:RegionRef regionRef="cell-region-8bca91b4-0c54-4060-8ab9-498736cb7f30"/>
+                    <pc:RegionRef regionRef="cell-region-fe1a1928-8bed-4d10-8226-3dc76d340029"/>
+                    <pc:RegionRef regionRef="cell-region-47a17af0-8b3b-4d47-98d8-6c33525f5055"/>
+                    <pc:RegionRef regionRef="cell-region-f97e1201-7d3a-4751-b3bb-6a7d5a7651b2"/>
+                    <pc:RegionRef regionRef="cell-region-4a15fc94-58bb-4a60-b5d8-e6764b026aea"/>
+                    <pc:RegionRef regionRef="cell-region-42a09cff-a197-473a-8c08-40d68cbf1f9f"/>
+                    <pc:RegionRef regionRef="cell-region-2cb26d65-bc55-4d94-a3cd-638639dd995d"/>
+                    <pc:RegionRef regionRef="cell-region-c0c02ba7-255b-453a-b832-98c746e47d08"/>
+                    <pc:RegionRef regionRef="cell-region-1c828d71-8c2f-4018-b3f7-99e3eea3ced1"/>
+                </pc:UnorderedGroupIndexed>
+                <pc:RegionRefIndexed index="17" regionRef="line-region-dac3ebe9-8b4e-4653-a772-552d8e233da7"/>
+                <pc:RegionRefIndexed index="18" regionRef="line-region-cdafe2ff-52c2-4010-96fc-e2a578eef853"/>
+                <pc:RegionRefIndexed index="19" regionRef="line-region-100a8627-6397-4b0e-98dd-fa3b4d92dfac"/>
+                <pc:RegionRefIndexed index="20" regionRef="line-region-b7eb4c8f-21d4-4e34-820d-6005e2f8d830"/>
+            </pc:OrderedGroup>
+        </pc:ReadingOrder>
+        <pc:TextRegion id="line-region-b599ffbc-5280-4d0b-91fb-947360475656">
+            <pc:Coords points="2181,68 2338,68 2339,181 2182,181"/>
+            <pc:TextLine id="line-b599ffbc-5280-4d0b-91fb-947360475656">
+                <pc:Coords points="2181,68 2338,68 2339,181 2182,181"/>
+                <pc:Word id="word-8cefae36-4b64-4e85-b6bf-009523a83e36">
+                    <pc:Coords points="2181,68 2338,68 2339,181 2182,181"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>153</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>153</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+        </pc:TextRegion>
+        <pc:TextRegion id="line-region-44dce26c-b6ad-4416-82c1-16ad152a1dcd">
+            <pc:Coords points="241,163 897,164 897,243 241,242"/>
+            <pc:TextLine id="line-44dce26c-b6ad-4416-82c1-16ad152a1dcd">
+                <pc:Coords points="241,163 897,164 897,243 241,242"/>
+                <pc:Word id="word-bb502caf-565e-496d-bd11-6bfae3472360">
+                    <pc:Coords points="241,164 305,165 305,240 241,240"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Der</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-71c30825-78fc-4b70-8961-c145179a45d6">
+                    <pc:Coords points="324,163 457,163 457,240 324,240"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Höhere</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-e5421dc7-4d48-4eb7-bef8-fa4373d81767">
+                    <pc:Coords points="471,168 544,168 544,242 471,242"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>44-</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-2b80ef36-0ac0-4c99-a542-fefc0b253655">
+                    <pc:Coords points="560,164 632,164 631,242 560,242"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>und</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-297b6993-c694-4862-813a-131889f7ed57">
+                    <pc:Coords points="649,164 897,164 897,242 649,241"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Polizeitührer</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Der Höhere 44- und Polizeitührer</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+        </pc:TextRegion>
+        <pc:TextRegion id="line-region-3a1fd62a-0b27-41a4-9318-c4ec0829303a">
+            <pc:Coords points="1933,162 2213,162 2214,211 1933,210"/>
+            <pc:TextLine id="line-3a1fd62a-0b27-41a4-9318-c4ec0829303a">
+                <pc:Coords points="1933,162 2213,162 2214,211 1933,210"/>
+                <pc:Word id="word-051e0357-d71c-48ff-8575-2e6e8c7a64c8">
+                    <pc:Coords points="1933,162 2213,162 2214,211 1933,210"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Verfraulidn!</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Verfraulidn!</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+        </pc:TextRegion>
+        <pc:TextRegion id="line-region-02d9df64-f928-4ca3-8dbe-df31a6a6dc66">
+            <pc:Coords points="2058,241 2108,241 2108,276 2058,276"/>
+            <pc:TextLine id="line-02d9df64-f928-4ca3-8dbe-df31a6a6dc66">
+                <pc:Coords points="2058,241 2108,241 2108,276 2058,276"/>
+                <pc:Word id="word-b9e2f8c2-4459-4a50-934b-1cbfa944e1a5">
+                    <pc:Coords points="2058,241 2108,241 2108,276 2058,276"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>S.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>S.</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+        </pc:TextRegion>
+        <pc:TextRegion id="line-region-1a9b27c8-1824-4421-bc6d-146619e6cc67">
+            <pc:Coords points="404,266 739,266 739,319 404,319"/>
+            <pc:TextLine id="line-1a9b27c8-1824-4421-bc6d-146619e6cc67">
+                <pc:Coords points="404,266 739,266 739,319 404,319"/>
+                <pc:Word id="word-8ccb6154-4925-4865-b229-03f77a6d7e56">
+                    <pc:Coords points="404,266 739,266 739,319 404,319"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Ansiedlungsstab</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Ansiedlungsstab</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+        </pc:TextRegion>
+        <pc:TextRegion id="line-region-170fcc72-ac46-4dcc-9faf-7cdea0ba380a">
+            <pc:Coords points="239,422 820,423 820,473 239,472"/>
+            <pc:TextLine id="line-170fcc72-ac46-4dcc-9faf-7cdea0ba380a">
+                <pc:Coords points="239,422 820,423 820,473 239,472"/>
+                <pc:Word id="word-e98a182d-aaa7-4bf4-94ca-f378c2aa33aa">
+                    <pc:Coords points="239,422 706,423 705,472 239,472"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Hofzuweisungsliste</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-61c288d0-a33e-473d-884e-6013dbc049fd">
+                    <pc:Coords points="731,441 820,441 820,465 731,465"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>vom</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Hofzuweisungsliste vom</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+        </pc:TextRegion>
+        <pc:TextRegion id="line-region-a853d8e9-4339-436c-9e04-067195b14b02">
+            <pc:Coords points="867,402 1150,402 1150,474 867,473"/>
+            <pc:TextLine id="line-a853d8e9-4339-436c-9e04-067195b14b02">
+                <pc:Coords points="867,402 1150,402 1150,474 867,473"/>
+                <pc:Word id="word-6133ff7c-8222-4c71-b6f0-38171e4aefba">
+                    <pc:Coords points="867,402 1150,402 1150,474 867,473"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>21.10.40</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>21.10.40</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+        </pc:TextRegion>
+        <pc:TextRegion id="line-region-6772c344-cfdd-45af-b7ba-8ece1faec293">
+            <pc:Coords points="1353,425 1698,426 1698,473 1353,473"/>
+            <pc:TextLine id="line-6772c344-cfdd-45af-b7ba-8ece1faec293">
+                <pc:Coords points="1353,425 1698,426 1698,473 1353,473"/>
+                <pc:Word id="word-dbdfadb0-5421-4743-97d1-4ebe3f623f30">
+                    <pc:Coords points="1353,425 1698,426 1698,473 1353,473"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Ansiedlungsdorf</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Ansiedlungsdorf</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+        </pc:TextRegion>
+        <pc:TextRegion id="line-region-6a8ea632-eb8b-4784-abec-11463f91f4bf">
+            <pc:Coords points="1766,409 2232,410 2232,456 1766,455"/>
+            <pc:TextLine id="line-6a8ea632-eb8b-4784-abec-11463f91f4bf">
+                <pc:Coords points="1766,409 2232,410 2232,456 1766,455"/>
+                <pc:Word id="word-e4aca11c-3fa1-4516-8499-68390c6ea5d5">
+                    <pc:Coords points="1766,409 2232,410 2232,456 1766,455"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Tannenberg-Rosle</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Tannenberg-Rosle</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+        </pc:TextRegion>
+        <pc:TextRegion id="line-region-649ab752-b3dd-48e3-b866-7ac6b7a775bf">
+            <pc:Coords points="242,521 564,522 564,568 242,568"/>
+            <pc:TextLine id="line-649ab752-b3dd-48e3-b866-7ac6b7a775bf">
+                <pc:Coords points="242,521 564,522 564,568 242,568"/>
+                <pc:Word id="word-1bff9eb9-2904-4eb3-9d87-f0403912b18a">
+                    <pc:Coords points="242,521 564,522 564,568 242,568"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Ansiedlungstag</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Ansiedlungstag</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+        </pc:TextRegion>
+        <pc:TextRegion id="line-region-445dc869-3ef0-45e5-b961-89970c661a35">
+            <pc:Coords points="866,498 1151,499 1151,559 866,558"/>
+            <pc:TextLine id="line-445dc869-3ef0-45e5-b961-89970c661a35">
+                <pc:Coords points="866,498 1151,499 1151,559 866,558"/>
+                <pc:Word id="word-bb8bb6d3-dbc0-411e-b284-70efbef0f1ca">
+                    <pc:Coords points="866,498 945,498 945,540 866,540"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>25.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-d8a8483c-53c3-41c9-8b1d-d6074886f246">
+                    <pc:Coords points="1038,500 1151,500 1151,559 1038,558"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>V.40</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>25. V.40</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+        </pc:TextRegion>
+        <pc:TextRegion id="line-region-9ef34fb8-7b57-47c4-92b9-f6cb9cf1c9d8">
+            <pc:Coords points="1353,522 1565,522 1565,561 1353,560"/>
+            <pc:TextLine id="line-9ef34fb8-7b57-47c4-92b9-f6cb9cf1c9d8">
+                <pc:Coords points="1353,522 1565,522 1565,561 1353,560"/>
+                <pc:Word id="word-c5b85952-d623-49ec-abe9-1a3294889a04">
+                    <pc:Coords points="1353,522 1565,522 1565,561 1353,560"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Gemeinde</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Gemeinde</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+        </pc:TextRegion>
+        <pc:TextRegion id="line-region-918b488f-cdb6-40b0-b7c7-c6a738403c1e">
+            <pc:Coords points="1938,508 2145,508 2146,545 1938,545"/>
+            <pc:TextLine id="line-918b488f-cdb6-40b0-b7c7-c6a738403c1e">
+                <pc:Coords points="1938,508 2145,508 2146,545 1938,545"/>
+                <pc:Word id="word-639a960a-7f9f-4fdb-91b5-4877e8fe45a7">
+                    <pc:Coords points="1938,508 2145,508 2146,545 1938,545"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Karszew</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Karszew</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+        </pc:TextRegion>
+        <pc:TextRegion id="line-region-5bd461d9-45b2-4c21-9977-4f0511bea0cc">
+            <pc:Coords points="243,616 766,617 766,656 243,655"/>
+            <pc:TextLine id="line-5bd461d9-45b2-4c21-9977-4f0511bea0cc">
+                <pc:Coords points="243,616 766,617 766,656 243,655"/>
+                <pc:Word id="word-52e9843c-4bfc-4aa2-aea8-cdf9335015d8">
+                    <pc:Coords points="243,616 447,617 447,655 243,655"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Verteiler:</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-d9c886ad-b6a7-44e3-80a9-7f36af197ede">
+                    <pc:Coords points="477,617 766,618 766,654 477,654"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Aussenstellen</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Verteiler: Aussenstellen</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+        </pc:TextRegion>
+        <pc:TextRegion id="line-region-1fbf7619-4610-4f39-be76-178f1b566830">
+            <pc:Coords points="1352,614 1464,615 1464,655 1352,654"/>
+            <pc:TextLine id="line-1fbf7619-4610-4f39-be76-178f1b566830">
+                <pc:Coords points="1352,614 1464,615 1464,655 1352,654"/>
+                <pc:Word id="word-2cc2a2d6-2003-49eb-b514-ad17c7d98968">
+                    <pc:Coords points="1352,614 1464,615 1464,655 1352,654"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Kreis</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Kreis</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+        </pc:TextRegion>
+        <pc:TextRegion id="line-region-acdfb29f-2711-4765-8413-fa5f285f7759">
+            <pc:Coords points="1996,604 2113,604 2113,641 1997,640"/>
+            <pc:TextLine id="line-acdfb29f-2711-4765-8413-fa5f285f7759">
+                <pc:Coords points="1996,604 2113,604 2113,641 1997,640"/>
+                <pc:Word id="word-b83f4e93-f63e-4ddb-b902-7ad57a6f7a8d">
+                    <pc:Coords points="1996,604 2113,604 2113,641 1997,640"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Kolo</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Kolo</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+        </pc:TextRegion>
+        <pc:TextRegion id="line-region-dac3ebe9-8b4e-4653-a772-552d8e233da7">
+            <pc:Coords points="1059,3112 1213,3113 1213,3147 1059,3146"/>
+            <pc:TextLine id="line-dac3ebe9-8b4e-4653-a772-552d8e233da7">
+                <pc:Coords points="1059,3112 1213,3113 1213,3147 1059,3146"/>
+                <pc:Word id="word-4ce6d855-ea35-42a9-9146-fb78fca73f54">
+                    <pc:Coords points="1059,3112 1213,3113 1213,3147 1059,3146"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Summe:</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Summe:</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+        </pc:TextRegion>
+        <pc:TextRegion id="line-region-cdafe2ff-52c2-4010-96fc-e2a578eef853">
+            <pc:Coords points="1421,3091 1537,3091 1537,3209 1422,3208"/>
+            <pc:TextLine id="line-cdafe2ff-52c2-4010-96fc-e2a578eef853">
+                <pc:Coords points="1421,3091 1537,3091 1537,3209 1422,3208"/>
+                <pc:Word id="word-ac476acf-7b28-4333-94b4-329dbd6eba38">
+                    <pc:Coords points="1421,3091 1537,3091 1537,3209 1422,3208"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>43</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>43</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+        </pc:TextRegion>
+        <pc:TextRegion id="line-region-100a8627-6397-4b0e-98dd-fa3b4d92dfac">
+            <pc:Coords points="823,3186 1211,3188 1211,3234 823,3232"/>
+            <pc:TextLine id="line-100a8627-6397-4b0e-98dd-fa3b4d92dfac">
+                <pc:Coords points="823,3186 1211,3188 1211,3234 823,3232"/>
+                <pc:Word id="word-7019c2f8-35a6-49ad-a370-44327260e481">
+                    <pc:Coords points="823,3186 990,3187 990,3233 823,3232"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Übertrag</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-bd5796b2-0b2b-4b03-80d6-3463206020d9">
+                    <pc:Coords points="1011,3200 1081,3201 1081,3225 1011,3224"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>von</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-da0cfda9-faf0-4cf8-b048-1b0324f8581e">
+                    <pc:Coords points="1104,3190 1211,3190 1211,3226 1104,3226"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Seite:</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Übertrag von Seite:</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+        </pc:TextRegion>
+        <pc:TextRegion id="line-region-b7eb4c8f-21d4-4e34-820d-6005e2f8d830">
+            <pc:Coords points="803,3323 971,3324 971,3372 803,3371"/>
+            <pc:TextLine id="line-b7eb4c8f-21d4-4e34-820d-6005e2f8d830">
+                <pc:Coords points="803,3323 971,3324 971,3372 803,3371"/>
+                <pc:Word id="word-5156ba25-997d-4803-919d-7d55384bbf20">
+                    <pc:Coords points="803,3323 971,3324 971,3372 803,3371"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Übertrag</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Übertrag</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+        </pc:TextRegion>
+        <pc:TableRegion id="table-region-cff8e490-cbec-4031-9f1b-2b09129e522d">
+            <pc:Coords points="247,698 2378,703 2403,3070 234,3058"/>
+            <pc:TextRegion id="cell-region-6bd8954f-3a9d-49f7-b238-f9ae4ed236fa">
+                <pc:Coords points="247,698 394,698 394,917 245,916"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="1" columnIndex="1" rowSpan="1" colSpan="1" header="true"/>
+                </pc:Roles>
+                <pc:TextLine id="line-bce18ed7-6ee4-4875-8670-4fec79557ef7">
+                    <pc:Coords points="291,769 351,769 351,796 291,796"/>
+                    <pc:Word id="word-02ee6251-d618-4c1f-915e-5ee6cb8ed396">
+                        <pc:Coords points="291,769 351,769 351,796 291,796"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Lfd.</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Lfd.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-38322ea6-2f21-4ab7-9b18-50bd3660e4d0">
+                    <pc:Coords points="298,821 342,821 342,847 298,847"/>
+                    <pc:Word id="word-336b2592-d713-45ec-bdab-990b6df61868">
+                        <pc:Coords points="298,821 342,821 342,847 298,847"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Nr.</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Nr.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-ca297b99-c2a4-42b0-88cd-b48188ec7935">
+                <pc:Coords points="394,698 811,699 811,918 394,917"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="1" columnIndex="2" rowSpan="1" colSpan="1" header="true"/>
+                </pc:Roles>
+                <pc:TextLine id="line-15b67e07-7635-44b0-9dc9-c1b25bfb4546">
+                    <pc:Coords points="522,752 676,753 676,780 522,780"/>
+                    <pc:Word id="word-5b94da30-d6ba-4246-82cf-8c880ca69abd">
+                        <pc:Coords points="522,752 676,753 676,780 522,780"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Heimatort</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Heimatort</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-a73304a8-38e4-41a0-bb12-e318a5a949e5">
+                    <pc:Coords points="486,795 711,795 711,827 486,826"/>
+                    <pc:Word id="word-c43092eb-0c7f-4355-b0e1-f5f6f5618dc7">
+                        <pc:Coords points="486,796 575,796 575,826 486,826"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Lager</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-b8b62235-e729-448d-9753-0f2950aa39ea">
+                        <pc:Coords points="591,795 611,795 611,822 591,822"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>It</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-66377b98-7dee-45f3-93c2-5a438b787d58">
+                        <pc:Coords points="628,795 711,795 711,823 628,823"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Vomi</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Lager It Vomi</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-1541447f-1666-4e02-815b-5210d26b303b">
+                    <pc:Coords points="516,837 717,838 716,871 516,870"/>
+                    <pc:Word id="word-af7130ac-b8ac-4c77-996b-0e5a62938c26">
+                        <pc:Coords points="516,838 553,838 553,871 516,870"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>(,,)</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-470637ef-381a-4402-8b52-366b797ad2dc">
+                        <pc:Coords points="590,838 611,838 611,864 589,864"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>It</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-c34689ef-6ec0-4bf5-a480-bb0c9623519d">
+                        <pc:Coords points="628,837 717,838 716,865 628,865"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>AK-K</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>(,,) It AK-K</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-14d433a1-c20b-4de8-babd-dd226c4b7a47">
+                <pc:Coords points="811,699 1422,701 1422,919 811,918"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="1" columnIndex="3" rowSpan="1" colSpan="1" header="true"/>
+                </pc:Roles>
+                <pc:TextLine id="line-bb33caec-9b5f-4519-a607-d9473c7abb0b">
+                    <pc:Coords points="954,741 1265,741 1265,783 954,782"/>
+                    <pc:Word id="word-45757c6e-f517-4568-bc66-9e0ed3553c82">
+                        <pc:Coords points="954,741 1071,741 1071,782 954,782"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Name,</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-b121060e-4933-4535-aec0-4512c24a156b">
+                        <pc:Coords points="1096,741 1265,741 1265,777 1096,776"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Vorname</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Name, Vorname</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-3f15993c-6c3c-4ec4-8411-99d39ebb0c00">
+                    <pc:Coords points="955,791 1272,792 1273,835 955,835"/>
+                    <pc:Word id="word-b50412c8-281a-464b-8150-7caa3832e708">
+                        <pc:Coords points="955,791 1272,792 1273,835 955,835"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Umsiedlungs-Nr.</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Umsiedlungs-Nr.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-f0da0a4f-c968-408b-b7ac-01cdfd90f692">
+                    <pc:Coords points="955,844 1249,845 1249,879 955,879"/>
+                    <pc:Word id="word-2f99fcc2-32a8-4003-9c15-1b8ba6f8e45a">
+                        <pc:Coords points="955,844 1249,845 1249,879 955,879"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Vomi-Kenn.-Nr.</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Vomi-Kenn.-Nr.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-3b73897b-e216-408b-82e1-0f2202273b09">
+                <pc:Coords points="1422,701 1583,701 1585,920 1422,919"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="1" columnIndex="4" rowSpan="1" colSpan="1" header="true"/>
+                </pc:Roles>
+                <pc:TextLine id="line-d7375b49-6150-4513-8a53-8830619223ee">
+                    <pc:Coords points="1435,751 1571,751 1571,785 1435,785"/>
+                    <pc:Word id="word-e9d08fea-50e2-4f16-9f87-a88e722f1e21">
+                        <pc:Coords points="1435,751 1571,751 1571,785 1435,785"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Kopfzahl</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Kopfzahl</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-84238fec-596d-42e4-a6db-8d9c8568102f">
+                    <pc:Coords points="1480,795 1530,795 1530,823 1480,823"/>
+                    <pc:Word id="word-3177d2ba-0fa7-4d4d-b3a1-cc5bb793771d">
+                        <pc:Coords points="1480,795 1530,795 1530,823 1480,823"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>der</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>der</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-1e6398e5-5533-49fb-8288-66e3225056e8">
+                    <pc:Coords points="1444,836 1558,836 1558,865 1444,865"/>
+                    <pc:Word id="word-5b15d8ff-a1a1-438d-9cdf-616d717dba99">
+                        <pc:Coords points="1444,836 1558,836 1558,865 1444,865"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Familie</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Familie</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-a37e68c3-7e35-4638-bebb-77a7567b777a">
+                <pc:Coords points="1583,701 1742,701 1743,920 1585,920"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="1" columnIndex="5" rowSpan="1" colSpan="1" header="true"/>
+                </pc:Roles>
+                <pc:TextLine id="line-93b56620-117a-4310-987a-ffcc1cf8417d">
+                    <pc:Coords points="1610,795 1722,795 1722,824 1610,823"/>
+                    <pc:Word id="word-bb22b7c4-b1c0-4617-b5bc-4129709c2e62">
+                        <pc:Coords points="1610,795 1722,795 1722,824 1610,823"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Hof-Nr.</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Hof-Nr.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-c66f2cab-cd21-4230-a256-6924ef13312b">
+                <pc:Coords points="1742,701 2104,702 2106,921 1743,920"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="1" columnIndex="6" rowSpan="1" colSpan="1" header="true"/>
+                </pc:Roles>
+                <pc:TextLine id="line-522b33e5-861c-490b-ba48-eba58aa150b7">
+                    <pc:Coords points="1837,754 2023,754 2023,786 1838,786"/>
+                    <pc:Word id="word-7c68a87d-f19f-4040-b0be-cc310a9f7cc0">
+                        <pc:Coords points="1837,754 1936,754 1937,785 1838,785"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>(ehem.</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-43637cc3-174d-4f74-bf69-441fef92f36a">
+                        <pc:Coords points="1951,754 2023,754 2023,786 1951,786"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Bes.)</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>(ehem. Bes.)</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-9a8757a4-fdd3-41a0-a155-57aebf22d4b3">
+                    <pc:Coords points="1859,796 1994,796 1994,830 1859,830"/>
+                    <pc:Word id="word-4461723a-10cb-4581-acea-9f77be8bc757">
+                        <pc:Coords points="1859,796 1994,796 1994,830 1859,830"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Kopfzahl</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Kopfzahl</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-b9e1b138-58a9-45bd-b6b2-95ba07f4d3ff">
+                    <pc:Coords points="1833,839 2021,839 2021,867 1833,867"/>
+                    <pc:Word id="word-88f949dc-7d40-4acb-a79a-7460b4e853aa">
+                        <pc:Coords points="1833,839 1903,839 1903,866 1833,866"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Erw.</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-71d5aaf3-1024-4e5a-9359-e488aed80d27">
+                        <pc:Coords points="1915,839 2021,839 2021,867 1915,867"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Kinder</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Erw. Kinder</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-5edb0856-6b39-468d-baa4-9070d2c23f93">
+                <pc:Coords points="2104,702 2378,703 2380,922 2106,921"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="1" columnIndex="7" rowSpan="1" colSpan="1" header="true"/>
+                </pc:Roles>
+                <pc:TextLine id="line-16a3f1b5-8e1c-4171-9b30-addeb85ec331">
+                    <pc:Coords points="2163,796 2314,797 2314,832 2163,832"/>
+                    <pc:Word id="word-d4dcd214-3ed1-4eba-9b26-ab42c0fa45f4">
+                        <pc:Coords points="2163,796 2314,797 2314,832 2163,832"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Bemerk.</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Bemerk.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-cac325a8-b858-4af3-a117-1a8bb6374cdc">
+                <pc:Coords points="245,916 394,917 393,1128 244,1128"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="2" columnIndex="1" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-0eea7b79-0645-46f2-8597-00f45c6c4e50">
+                    <pc:Coords points="309,929 337,929 336,965 309,965"/>
+                    <pc:Word id="word-0a622851-f40f-44ac-8ea2-163f9e6485b7">
+                        <pc:Coords points="309,929 337,929 336,965 309,965"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>1</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>1</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-6a1b60f6-ff61-42c3-a2ec-645def37f0bf">
+                <pc:Coords points="394,917 811,918 810,1129 393,1128"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="2" columnIndex="2" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-51ca813e-a695-4cfe-9cea-405b0ca1a761">
+                    <pc:Coords points="423,931 688,931 687,967 423,966"/>
+                    <pc:Word id="word-3b8335db-6309-4241-9263-0bf55b376f47">
+                        <pc:Coords points="423,931 688,931 687,967 423,966"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Antonowka</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Antonowka</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-3f06f537-55aa-462b-ae69-e66f5cd8735c">
+                    <pc:Coords points="423,979 684,980 684,1016 423,1016"/>
+                    <pc:Word id="word-ca25f7a9-918f-4e71-9af3-e5040d3e587f">
+                        <pc:Coords points="423,979 684,980 684,1016 423,1016"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Waldhorst</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Waldhorst</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-a08d911f-6aa9-4c88-bc1d-71acf6bb6cb9">
+                <pc:Coords points="811,918 1422,919 1423,1131 810,1129"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="2" columnIndex="3" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-8197fed3-4b15-4a66-9aa2-a0a3069a1246">
+                    <pc:Coords points="861,933 1297,934 1297,971 861,970"/>
+                    <pc:Word id="word-5df6635f-3a32-4b0b-8e85-6e39cf86cc01">
+                        <pc:Coords points="861,933 1095,934 1095,970 861,970"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Guderian</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-99765d6f-5038-4101-bcca-d175d87f24ec">
+                        <pc:Coords points="1122,935 1297,935 1297,971 1122,971"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Rudolf</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Guderian Rudolf</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-3bb6e68e-1fe1-43e0-9b81-37371f0b67f8">
+                    <pc:Coords points="859,977 1327,978 1327,1029 859,1028"/>
+                    <pc:Word id="word-bb513035-b848-4ef4-874a-08c5ff7b49c1">
+                        <pc:Coords points="859,983 917,983 917,1018 859,1018"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Wo</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-a7e76b24-a7c3-4e98-a5f3-7a8b25d5bd59">
+                        <pc:Coords points="947,977 1327,978 1327,1029 947,1028"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>III/1-6/39/19</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Wo III/1-6/39/19</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-aac26ab8-9335-4027-aa91-59b896fee06c">
+                    <pc:Coords points="859,1028 1005,1029 1005,1066 859,1066"/>
+                    <pc:Word id="word-102dfd94-a803-4007-9f6f-c6231d535a9b">
+                        <pc:Coords points="859,1028 1005,1029 1005,1066 859,1066"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>16228</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>16228</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-ccf41a94-1cb0-4c6d-9077-8c76bb9ffb4d">
+                <pc:Coords points="1422,919 1585,920 1586,1131 1423,1131"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="2" columnIndex="4" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-8e97e2d3-bdd6-4ee6-a413-dcb1721e25dd">
+                    <pc:Coords points="1505,1036 1531,1036 1531,1075 1505,1074"/>
+                    <pc:Word id="word-f66bf43a-9a98-450b-afa8-dc910725bdb0">
+                        <pc:Coords points="1505,1036 1531,1036 1531,1075 1505,1074"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>4</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>4</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-323b9647-6058-445d-bd8f-2469c3e8f028">
+                <pc:Coords points="1585,920 1743,920 1744,1132 1586,1131"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="2" columnIndex="5" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-e62dd3d2-3643-4850-b89d-d63b9dfe16e2">
+                    <pc:Coords points="1589,1010 1733,1010 1733,1053 1589,1052"/>
+                    <pc:Word id="word-860b8358-57c0-49d5-81bd-a03504869550">
+                        <pc:Coords points="1589,1010 1733,1010 1733,1053 1589,1052"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>10839</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>10839</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-f698bb9d-d09e-4d5e-936e-f6e060d6a4b1">
+                <pc:Coords points="1743,920 2106,921 2107,1133 1744,1132"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="2" columnIndex="6" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-7635daa7-ed83-41f1-8a93-b148118a599b">
+                    <pc:Coords points="1787,1012 2108,1013 2108,1058 1788,1057"/>
+                    <pc:Word id="word-df57de70-3de8-49cc-99ac-089bf56e1df2">
+                        <pc:Coords points="1787,1012 2108,1013 2108,1058 1788,1057"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Augustowski</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Augustowski</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-b58bd01a-0ad2-46ae-98c3-c01a097ec68d">
+                <pc:Coords points="2106,921 2380,922 2382,1133 2107,1133"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="2" columnIndex="7" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-936b77f7-9f37-4384-b12e-7f4bad14eee9">
+                    <pc:Coords points="2139,1015 2371,1016 2371,1053 2139,1053"/>
+                    <pc:Word id="word-85922733-445c-4250-936c-9aae752f6d28">
+                        <pc:Coords points="2139,1015 2371,1016 2371,1053 2139,1053"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Stanish</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Stanish</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-106765b7-0a31-4436-ab0d-e8f5ec3dd55a">
+                <pc:Coords points="244,1128 393,1128 392,1347 243,1346"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="3" columnIndex="1" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-8d6ae1f0-3b90-4af6-ba75-911019532f9c">
+                    <pc:Coords points="309,1195 334,1195 334,1230 309,1230"/>
+                    <pc:Word id="word-e2186fd2-0bac-4e5b-b5f2-bc9796cffda7">
+                        <pc:Coords points="309,1195 334,1195 334,1230 309,1230"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>2</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>2</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-0a5c7ed2-b92d-41d5-a475-0006d749f5be">
+                <pc:Coords points="393,1128 810,1129 810,1348 392,1347"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="3" columnIndex="2" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-d1650f0e-ce06-47e5-8907-cbacc9a65eaa">
+                    <pc:Coords points="449,1197 715,1198 715,1235 449,1234"/>
+                    <pc:Word id="word-64d33af3-3b2c-4a22-ad2e-c2b9bf7d361b">
+                        <pc:Coords points="449,1197 715,1198 715,1235 449,1234"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Antonowka</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Antonowka</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-b80c11e9-d0cb-4b5a-8fe5-1553ea8ffa44">
+                    <pc:Coords points="446,1246 712,1247 712,1282 446,1282"/>
+                    <pc:Word id="word-34704c43-3700-4997-b02c-7db8b4c6dd54">
+                        <pc:Coords points="446,1246 712,1247 712,1282 446,1282"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Waldhorst</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Waldhorst</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-6f72d632-a1ce-4b3b-90ba-11b6c5f2bb30">
+                <pc:Coords points="810,1129 1423,1131 1424,1350 810,1348"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="3" columnIndex="3" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-231e54c7-7033-45c7-b9ae-807b38ad9c26">
+                    <pc:Coords points="829,1174 1238,1175 1238,1212 829,1211"/>
+                    <pc:Word id="word-b2d25af2-5323-421c-9225-f7a908d6cd6e">
+                        <pc:Coords points="829,1175 975,1176 975,1212 829,1211"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Fuchs</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-1b0de080-be7b-4903-bc39-204a69d64683">
+                        <pc:Coords points="1007,1174 1238,1175 1238,1212 1007,1212"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Gottlieb</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Fuchs Gottlieb</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-1cb0a53a-1ef2-4b64-a090-d9fff65d4e1d">
+                    <pc:Coords points="829,1218 1265,1219 1265,1270 828,1268"/>
+                    <pc:Word id="word-a4320688-08e2-42e0-8dbd-8fe514ef0928">
+                        <pc:Coords points="829,1225 886,1225 886,1260 828,1260"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Wo</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-aef76018-a448-4cd8-a6d7-39c79cd1601e">
+                        <pc:Coords points="921,1218 1265,1219 1265,1270 921,1269"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>III/1-1/7/19</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Wo III/1-1/7/19</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-f8999e02-d656-487d-8f65-07e2a05b55a4">
+                    <pc:Coords points="830,1271 974,1271 974,1312 830,1312"/>
+                    <pc:Word id="word-5b574628-043d-452e-b9d4-55c60d20031d">
+                        <pc:Coords points="830,1271 974,1271 974,1312 830,1312"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>16470</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>16470</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-23f1b654-cd26-4b46-a6f6-31f504480511">
+                <pc:Coords points="1423,1131 1586,1131 1587,1350 1424,1350"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="3" columnIndex="4" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-e3537bd7-9497-4e6a-8db7-0e1905f14054">
+                    <pc:Coords points="1503,1277 1528,1277 1528,1318 1503,1318"/>
+                    <pc:Word id="word-913f32e2-af7a-4d66-a28c-d8518d263c22">
+                        <pc:Coords points="1503,1277 1528,1277 1528,1318 1503,1318"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>3</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>3</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-65ffc3b0-8155-4a96-a21c-8f8ccdc0b17c">
+                <pc:Coords points="1586,1131 1744,1132 1746,1351 1587,1350"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="3" columnIndex="5" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-6d81f973-a0f8-4671-91b3-d15e9ac0fc54">
+                    <pc:Coords points="1587,1229 1731,1229 1731,1269 1587,1268"/>
+                    <pc:Word id="word-5c20bcd8-d446-4b80-ae60-0a83455f179b">
+                        <pc:Coords points="1587,1229 1731,1229 1731,1269 1587,1268"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>10840</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>10840</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-03d0c7da-9a06-4346-a36d-a206aaaf8a61">
+                <pc:Coords points="1744,1132 2107,1133 2109,1352 1746,1351"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="3" columnIndex="6" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-b4746ad2-adaf-437b-8dbf-f4bdc6ee9829">
+                    <pc:Coords points="1790,1230 2227,1231 2228,1270 1790,1268"/>
+                    <pc:Word id="word-d78cd74d-5744-4da8-a470-ca44fad04741">
+                        <pc:Coords points="1790,1230 2023,1231 2023,1268 1790,1267"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Ludwicki</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-281269d8-e0cf-427b-8b36-4ef6c50e6f3d">
+                        <pc:Coords points="2050,1231 2227,1231 2228,1270 2050,1269"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Antoni</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Ludwicki Antoni</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-0cc6d95e-9377-471d-bec0-812ec36f6277">
+                <pc:Coords points="2107,1133 2382,1133 2385,1353 2109,1352"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="3" columnIndex="7" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-b4746ad2-adaf-437b-8dbf-f4bdc6ee9829">
+                    <pc:Coords points="1790,1230 2227,1231 2228,1270 1790,1268"/>
+                    <pc:Word id="word-d78cd74d-5744-4da8-a470-ca44fad04741">
+                        <pc:Coords points="1790,1230 2023,1231 2023,1268 1790,1267"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Ludwicki</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-281269d8-e0cf-427b-8b36-4ef6c50e6f3d">
+                        <pc:Coords points="2050,1231 2227,1231 2228,1270 2050,1269"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Antoni</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Ludwicki Antoni</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-47fc0fed-c7cd-4327-93dd-f4c8dcedcf67">
+                <pc:Coords points="243,1346 392,1347 391,1562 242,1561"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="4" columnIndex="1" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-901f72b6-cc54-463f-9c6f-b02b9063ccf7">
+                    <pc:Coords points="308,1413 332,1413 332,1454 307,1454"/>
+                    <pc:Word id="word-66ea60da-aeeb-4887-94f1-e429f3a24d17">
+                        <pc:Coords points="308,1413 332,1413 332,1454 307,1454"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>3</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>3</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-624e6fd4-9797-44f5-ab3e-8f266b3d7d9d">
+                <pc:Coords points="392,1347 810,1348 810,1563 391,1562"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="4" columnIndex="2" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-f5ab1d7c-4545-4b4a-918c-9d7bc7742726">
+                    <pc:Coords points="450,1413 772,1414 772,1452 450,1451"/>
+                    <pc:Word id="word-b3b2e490-ee54-45ee-a6f9-d4217cec754a">
+                        <pc:Coords points="450,1413 772,1414 772,1452 450,1451"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Gonschorika</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Gonschorika</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-c38f2cdb-9468-4060-9ac0-ac622fde0dea">
+                    <pc:Coords points="448,1462 685,1463 685,1500 448,1499"/>
+                    <pc:Word id="word-e89be00c-f830-4047-8279-f923683bb5a0">
+                        <pc:Coords points="448,1462 540,1463 540,1499 448,1499"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Neu</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-2f054053-91d9-4a00-b2a5-c30958e85bde">
+                        <pc:Coords points="562,1463 685,1464 685,1500 562,1500"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Wola</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Neu Wola</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-409020ba-ac51-41e0-b147-26805e044d88">
+                <pc:Coords points="810,1348 1424,1350 1425,1565 810,1563"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="4" columnIndex="3" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-bad2c3e6-39b2-4362-b188-5b185d17dd84">
+                    <pc:Coords points="858,1391 1411,1393 1411,1438 858,1436"/>
+                    <pc:Word id="word-f3de3167-f23a-4ccc-b3fc-60936a8d2159">
+                        <pc:Coords points="858,1391 1209,1392 1209,1436 858,1435"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Ignatowitsch</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-f4d92efb-fd04-4fb2-9e82-a75afd388d2e">
+                        <pc:Coords points="1232,1395 1411,1396 1411,1438 1232,1437"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>August</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Ignatowitsch August</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-dfe60659-9b78-410f-ba14-7a464463c738">
+                    <pc:Coords points="857,1435 1321,1436 1321,1488 856,1486"/>
+                    <pc:Word id="word-eaffa0a2-3a1b-4fde-85b3-ea13a0cb25ba">
+                        <pc:Coords points="857,1442 914,1442 914,1477 856,1477"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Wo</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-c4843893-bc7e-436e-abdf-72c504968525">
+                        <pc:Coords points="948,1435 1321,1436 1321,1488 948,1486"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>I/10-11/59/17</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Wo I/10-11/59/17</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-cdf7601f-8896-4948-b4ea-bd534ba657a4">
+                    <pc:Coords points="860,1485 1002,1486 1002,1531 860,1530"/>
+                    <pc:Word id="word-0ee7b182-1c64-43cc-9d78-46656dde2b27">
+                        <pc:Coords points="860,1485 1002,1486 1002,1531 860,1530"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>64678</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>64678</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-4a24d41e-5f58-4b26-936c-ce274d5902f5">
+                <pc:Coords points="1424,1350 1587,1350 1588,1566 1425,1565"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="4" columnIndex="4" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-9ded800f-ca7c-4634-a078-f194ba50f5e2">
+                    <pc:Coords points="1502,1494 1529,1494 1529,1533 1502,1533"/>
+                    <pc:Word id="word-037f6963-e5c5-4ef9-9449-2a763479ea1a">
+                        <pc:Coords points="1502,1494 1529,1494 1529,1533 1502,1533"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>4</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>4</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-0c5a0fda-827a-46cc-9d2f-3a4695c4d4b6">
+                <pc:Coords points="1587,1350 1746,1351 1747,1566 1588,1566"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="4" columnIndex="5" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-5f7e42e5-a27c-467a-b007-259c76b83207">
+                    <pc:Coords points="1586,1445 1729,1446 1730,1484 1587,1483"/>
+                    <pc:Word id="word-59147d8a-534f-4de5-8687-0c1167c64678">
+                        <pc:Coords points="1586,1445 1729,1446 1730,1484 1587,1483"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>10841</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>10841</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-3f7d29c1-f4ea-4082-82f7-129625e9d7be">
+                    <pc:Coords points="1612,1496 1702,1496 1702,1531 1612,1531"/>
+                    <pc:Word id="word-b2eb6d1f-25c3-4757-a546-96e23e135a3a">
+                        <pc:Coords points="1612,1496 1702,1496 1702,1531 1612,1531"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>A+B</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>A+B</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-e5bc4255-f77e-47d3-847a-ef56a1ccb1a9">
+                <pc:Coords points="1746,1351 2109,1352 2111,1568 1747,1566"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="4" columnIndex="6" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-71c2e56e-9d2e-479d-9169-84afb80919d0">
+                    <pc:Coords points="1819,1450 2134,1451 2135,1492 1819,1491"/>
+                    <pc:Word id="word-bbbd2000-8231-4ed7-bd9e-27c2961e5923">
+                        <pc:Coords points="1819,1450 2134,1451 2135,1492 1819,1491"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Augustowski</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Augustowski</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-d46f9c8a-7da7-488f-bf1e-53b3e52d7083">
+                    <pc:Coords points="1761,1496 2258,1497 2258,1535 1761,1533"/>
+                    <pc:Word id="word-4f0b0e53-dbc6-4b2c-a49b-ffd14a07286f">
+                        <pc:Coords points="1761,1496 2107,1497 2108,1534 1761,1532"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Janonszewski</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-8810f5dd-bfb8-4612-9e71-b9bf4aaa3e50">
+                        <pc:Coords points="2138,1499 2258,1500 2258,1535 2139,1535"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Leon</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Janonszewski Leon</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-e7738041-c9d1-4c09-8453-c29df67ae5fc">
+                <pc:Coords points="2109,1352 2385,1353 2387,1568 2111,1568"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="4" columnIndex="7" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-d46f9c8a-7da7-488f-bf1e-53b3e52d7083">
+                    <pc:Coords points="1761,1496 2258,1497 2258,1535 1761,1533"/>
+                    <pc:Word id="word-4f0b0e53-dbc6-4b2c-a49b-ffd14a07286f">
+                        <pc:Coords points="1761,1496 2107,1497 2108,1534 1761,1532"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Janonszewski</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-8810f5dd-bfb8-4612-9e71-b9bf4aaa3e50">
+                        <pc:Coords points="2138,1499 2258,1500 2258,1535 2139,1535"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Leon</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Janonszewski Leon</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-cd4af80b-df67-4c00-adbe-a59c6470d920">
+                <pc:Coords points="242,1561 391,1562 390,1768 241,1768"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="5" columnIndex="1" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-edd159ff-26ff-48e4-b365-935fb2ce767b">
+                    <pc:Coords points="307,1632 334,1632 333,1671 306,1671"/>
+                    <pc:Word id="word-e96eeaa6-4439-4da2-a519-26346a072e30">
+                        <pc:Coords points="307,1632 334,1632 333,1671 306,1671"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>4</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>4</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-e08c8e3b-23d3-489d-8876-6d15fcfe48ad">
+                <pc:Coords points="391,1562 810,1563 810,1770 390,1768"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="5" columnIndex="2" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-c8409b94-b309-4099-9880-dc69b7831951">
+                    <pc:Coords points="451,1632 770,1633 770,1668 451,1667"/>
+                    <pc:Word id="word-d4fb8f46-c21e-4c72-9d2c-16b5c251f1db">
+                        <pc:Coords points="451,1632 770,1633 770,1668 451,1667"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Gonschorika</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Gonschorika</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-cdd0d90e-cd4b-4498-ac3b-f9427db43865">
+                    <pc:Coords points="476,1680 712,1681 712,1719 476,1718"/>
+                    <pc:Word id="word-3aa94e1b-4a76-4551-af5c-c4e0d7abd006">
+                        <pc:Coords points="476,1681 568,1682 568,1718 476,1718"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Neu</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-e953a11d-fa88-4407-82ab-f0b3a3afb57e">
+                        <pc:Coords points="591,1681 712,1681 712,1718 591,1717"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Wola</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Neu Wola</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-c24c1640-daab-4ca0-8c37-0dc5baf1b857">
+                <pc:Coords points="810,1563 1425,1565 1425,1772 810,1770"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="5" columnIndex="3" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-3cc55eab-c234-4825-a3f8-ac5778afc632">
+                    <pc:Coords points="855,1585 1262,1586 1263,1624 855,1622"/>
+                    <pc:Word id="word-baef47aa-7f89-4842-b716-e1c23ecd53d6">
+                        <pc:Coords points="855,1585 1119,1586 1119,1623 855,1622"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Sochinski</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-11b712c7-c6e7-44b8-8c5d-25255b6f09c9">
+                        <pc:Coords points="1148,1586 1262,1587 1263,1624 1148,1623"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Karl</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Sochinski Karl</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-883f1f66-4f71-49d1-90ec-4d3984fbbb3e">
+                    <pc:Coords points="855,1628 1293,1630 1293,1681 855,1679"/>
+                    <pc:Word id="word-c09236e2-b27c-44e9-9834-abbe0ac4804b">
+                        <pc:Coords points="855,1635 914,1636 914,1670 855,1670"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Wo</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-06f35857-1b50-4db4-b901-5e25b153d5ed">
+                        <pc:Coords points="945,1629 1293,1630 1293,1681 945,1679"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>I/10-12/63/8</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Wo I/10-12/63/8</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-3e55f1f6-8bad-4a3c-b692-3ec75a480dfb">
+                    <pc:Coords points="856,1682 1030,1682 1030,1723 856,1722"/>
+                    <pc:Word id="word-79d586b2-3e51-4ab6-86ec-a0da52fb3e2d">
+                        <pc:Coords points="856,1682 1030,1682 1030,1723 856,1722"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>131313</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>131313</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-d544ba12-241f-4d25-aa95-9fb97969deb2">
+                <pc:Coords points="1425,1565 1588,1566 1589,1772 1425,1772"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="5" columnIndex="4" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-1d04128d-f7c6-4871-8cf6-744a1edaa450">
+                    <pc:Coords points="1500,1686 1526,1687 1526,1729 1500,1728"/>
+                    <pc:Word id="word-a16e73e6-a67f-45ba-a722-4e4ba5b0252e">
+                        <pc:Coords points="1500,1686 1526,1687 1526,1729 1500,1728"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>3</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>3</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-7c1e3a01-882c-4c98-bc25-5ca2c3fb92f7">
+                <pc:Coords points="1588,1566 1747,1566 1748,1773 1589,1772"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="5" columnIndex="5" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-99648dfe-7128-4180-9665-b86f10229b3d">
+                    <pc:Coords points="1585,1638 1730,1639 1730,1679 1585,1678"/>
+                    <pc:Word id="word-59831226-fbca-485f-af66-c1f15febc633">
+                        <pc:Coords points="1585,1638 1730,1639 1730,1679 1585,1678"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>10842</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>10842</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-3b0e8370-881d-4967-af3e-e18fc0889620">
+                    <pc:Coords points="1611,1689 1700,1689 1700,1726 1611,1725"/>
+                    <pc:Word id="word-e388dd48-2100-4226-9427-5a3d22d41df1">
+                        <pc:Coords points="1611,1689 1700,1689 1700,1726 1611,1725"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>A+B</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>A+B</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-3d26dc39-0790-4cd0-a007-e05b692f288d">
+                <pc:Coords points="1747,1566 2111,1568 2113,1774 1748,1773"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="5" columnIndex="6" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-71d8288a-e58a-4604-9346-862bda091740">
+                    <pc:Coords points="1818,1641 2226,1643 2227,1680 1818,1678"/>
+                    <pc:Word id="word-9ad9ec2e-a146-44a8-a7c6-20b2eaf6be76">
+                        <pc:Coords points="1818,1641 2024,1642 2024,1679 1818,1678"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Mroczek</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-190f1e7f-c165-4720-818d-09bb47f0b19d">
+                        <pc:Coords points="2049,1642 2226,1643 2227,1680 2049,1679"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Antoni</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Mroczek Antoni</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-c5ccfc0f-a13f-410a-a098-2a090d49051e">
+                    <pc:Coords points="1759,1690 2255,1692 2256,1736 1760,1734"/>
+                    <pc:Word id="word-dc843ed7-6b0b-474a-894e-b131eba3169e">
+                        <pc:Coords points="1759,1690 1936,1690 1936,1727 1760,1727"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Pawlak</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-b826bdc9-cad6-4c3a-9315-22d787a49c0b">
+                        <pc:Coords points="1963,1691 2255,1693 2256,1736 1964,1735"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Wawrzyniec</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Pawlak Wawrzyniec</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-cbbf3add-a1cd-462e-a3a2-52cbeae18cf9">
+                <pc:Coords points="2111,1568 2387,1568 2389,1775 2113,1774"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="5" columnIndex="7" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-71d8288a-e58a-4604-9346-862bda091740">
+                    <pc:Coords points="1818,1641 2226,1643 2227,1680 1818,1678"/>
+                    <pc:Word id="word-9ad9ec2e-a146-44a8-a7c6-20b2eaf6be76">
+                        <pc:Coords points="1818,1641 2024,1642 2024,1679 1818,1678"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Mroczek</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-190f1e7f-c165-4720-818d-09bb47f0b19d">
+                        <pc:Coords points="2049,1642 2226,1643 2227,1680 2049,1679"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Antoni</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Mroczek Antoni</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-1a27b96f-5412-4551-abb2-6e9eb0304ea7">
+                <pc:Coords points="241,1768 390,1768 389,1989 239,1988"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="6" columnIndex="1" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-2fdddf65-5496-450c-9e0e-9f596a1cc3c5">
+                    <pc:Coords points="306,1825 330,1825 330,1866 306,1866"/>
+                    <pc:Word id="word-8dbaef3a-4910-4a56-96d2-ebff0d25e346">
+                        <pc:Coords points="306,1825 330,1825 330,1866 306,1866"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>5</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>5</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-3cb136b6-9e94-42fb-b350-8f1adde67efb">
+                <pc:Coords points="390,1768 810,1770 809,1991 389,1989"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="6" columnIndex="2" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-52a67b8b-ee09-44dc-87c2-780161846fac">
+                    <pc:Coords points="449,1827 771,1828 771,1864 449,1863"/>
+                    <pc:Word id="word-d26adb78-bab8-460d-b808-49e8408fe0e5">
+                        <pc:Coords points="449,1827 771,1828 771,1864 449,1863"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Gonschorika</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Gonschorika</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-d0144581-231a-40fc-b623-cedb0e2c5fc1">
+                    <pc:Coords points="476,1876 711,1877 711,1912 476,1911"/>
+                    <pc:Word id="word-93c9889a-c852-4ac4-be39-603bcb8db0e4">
+                        <pc:Coords points="476,1876 568,1876 567,1912 476,1911"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Neu</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-38eb64f7-cf94-49ce-9a54-6307c34676c7">
+                        <pc:Coords points="592,1876 711,1877 711,1912 592,1912"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Wola</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Neu Wola</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-d5559632-4918-48e2-94cd-3c21af2f059d">
+                <pc:Coords points="810,1770 1425,1772 1426,1993 809,1991"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="6" columnIndex="3" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-0ab26659-14c0-4101-997a-ad2aaa84221a">
+                    <pc:Coords points="856,1779 1265,1780 1265,1818 856,1817"/>
+                    <pc:Word id="word-0225736a-54b3-464d-a89e-dcc632c794bb">
+                        <pc:Coords points="856,1779 1061,1779 1061,1817 856,1816"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Löffler</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-40ada08f-d80b-4b87-a770-137a7f7700b3">
+                        <pc:Coords points="1088,1781 1265,1781 1265,1818 1088,1817"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Rudolf</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Löffler Rudolf</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-4c3ccf4d-222d-40b5-9408-b0c9d65b3068">
+                    <pc:Coords points="854,1823 1320,1824 1320,1875 854,1874"/>
+                    <pc:Word id="word-0a8deccc-af5c-4015-89a8-3568ef555675">
+                        <pc:Coords points="854,1830 913,1830 913,1865 854,1865"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Wo</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-3cb87b1e-1006-4f37-8002-5e00d4e26c93">
+                        <pc:Coords points="946,1823 1320,1824 1320,1875 946,1874"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>I/10-11/60/21</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Wo I/10-11/60/21</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-4daa226d-5d5f-4adb-b1de-9a694fc1d946">
+                    <pc:Coords points="859,1875 1001,1876 1001,1919 859,1918"/>
+                    <pc:Word id="word-7f05fdad-4fb0-42c2-a5f2-68d045c32f21">
+                        <pc:Coords points="859,1875 1001,1876 1001,1919 859,1918"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>65199</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>65199</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-2922efd9-6bd5-4ff5-a60a-19c8df2f385b">
+                <pc:Coords points="1425,1772 1589,1772 1590,1994 1426,1993"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="6" columnIndex="4" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-46629bb1-939f-4b01-a62b-afbce2e7ba57">
+                    <pc:Coords points="1500,1882 1527,1882 1527,1921 1500,1921"/>
+                    <pc:Word id="word-e0ee60cf-e0e3-47bc-9e59-d2b51b5f7c6e">
+                        <pc:Coords points="1500,1882 1527,1882 1527,1921 1500,1921"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>4</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>4</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-bc014918-9430-43d6-b74d-39745054d568">
+                <pc:Coords points="1589,1772 1748,1773 1750,1994 1590,1994"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="6" columnIndex="5" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-b4637dad-da44-4bb1-8d42-65814fc053c2">
+                    <pc:Coords points="1613,1834 1759,1834 1759,1874 1613,1874"/>
+                    <pc:Word id="word-e8e0a7b1-fc79-4db3-ba4d-68ce18ecea56">
+                        <pc:Coords points="1613,1834 1759,1834 1759,1874 1613,1874"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>10843</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>10843</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-71fd6b45-7be3-4eaf-81b0-b0f6e57c815a">
+                <pc:Coords points="1748,1773 2113,1774 2115,1996 1750,1994"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="6" columnIndex="6" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-2d9023cf-58aa-4dbf-a9fc-0149dc0c4224">
+                    <pc:Coords points="1847,1837 2167,1838 2168,1875 1847,1874"/>
+                    <pc:Word id="word-4d7d5448-53af-4456-bc35-7db014f00c43">
+                        <pc:Coords points="1847,1838 1962,1838 1963,1874 1847,1873"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Maks</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-baa50a1b-c2e4-453b-9442-93385e1c6ef4">
+                        <pc:Coords points="1993,1838 2167,1838 2168,1875 1993,1875"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Antoni</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Maks Antoni</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-60edd043-f09a-4c72-8cec-2017f825eacf">
+                <pc:Coords points="2113,1774 2389,1775 2392,1997 2115,1996"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="6" columnIndex="7" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-e037c808-ed34-4547-9cf0-f50716f1ccd8">
+                <pc:Coords points="239,1988 389,1989 388,2206 238,2206"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="7" columnIndex="1" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-2c1b360b-6187-4938-862a-ed66619261b5">
+                    <pc:Coords points="305,2040 330,2041 330,2079 305,2079"/>
+                    <pc:Word id="word-828aa5df-6430-4f09-9922-4436b99637b8">
+                        <pc:Coords points="305,2040 330,2041 330,2079 305,2079"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>6</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>6</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-650de297-d888-49fd-844d-958dce2ac0cd">
+                <pc:Coords points="389,1989 809,1991 809,2208 388,2206"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="7" columnIndex="2" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-8b1b39f5-014d-4ae4-a5cc-564de4dba296">
+                    <pc:Coords points="443,2043 710,2044 709,2083 443,2081"/>
+                    <pc:Word id="word-f86b54ff-58a2-4883-ab1c-b6929ad02a35">
+                        <pc:Coords points="443,2043 710,2044 709,2083 443,2081"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Antonowka</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Antonowka</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-c2a564bb-8e9c-40d0-86bd-c08ee0ac5ba0">
+                    <pc:Coords points="444,2092 709,2093 709,2131 444,2129"/>
+                    <pc:Word id="word-1f0d047e-cd83-4e3f-be7d-bd7812dbab67">
+                        <pc:Coords points="444,2092 709,2093 709,2131 444,2129"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Waldhorst</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Waldhorst</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-1d294aaa-10ec-4984-a758-c69ab2e75218">
+                <pc:Coords points="809,1991 1426,1993 1427,2211 809,2208"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="7" columnIndex="3" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-f1815a61-8e13-4b2c-becc-81af6b7d0369">
+                    <pc:Coords points="853,1995 1352,1997 1352,2043 853,2041"/>
+                    <pc:Word id="word-83e366fa-3860-427c-8e41-2f28d078fbfc">
+                        <pc:Coords points="853,1995 1172,1996 1173,2043 853,2041"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Scherpinski</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-bd85d222-c6b5-4f81-a4fa-b419f352bfad">
+                        <pc:Coords points="1204,1999 1352,2000 1352,2037 1204,2036"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Lidia</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Scherpinski Lidia</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-ebf5defa-ca31-46a5-ac8c-bd0cc76103f6">
+                    <pc:Coords points="882,2042 1349,2044 1350,2095 882,2093"/>
+                    <pc:Word id="word-440e5b66-4d7f-4b9b-b70b-3db80d3b7db3">
+                        <pc:Coords points="882,2048 942,2048 942,2084 882,2084"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Wo</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-98005ad9-fcc9-4fbb-ac3b-64949136b528">
+                        <pc:Coords points="972,2043 1349,2044 1350,2095 972,2093"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>III/1-6/38/16</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Wo III/1-6/38/16</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-b1990cb3-9d44-4710-b15a-73e4dfab82ac">
+                    <pc:Coords points="855,2094 1001,2095 1001,2134 855,2134"/>
+                    <pc:Word id="word-561d617f-82f7-437f-8cf1-646b6a4928df">
+                        <pc:Coords points="855,2094 1001,2095 1001,2134 855,2134"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>16446</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>16446</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-6d6dfa0c-5b6b-407e-93c6-5104028d6e1d">
+                <pc:Coords points="1426,1993 1590,1994 1591,2211 1427,2211"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="7" columnIndex="4" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-f3a9890b-1707-4a3b-9c28-4c23877a8548">
+                    <pc:Coords points="1499,2100 1525,2101 1525,2141 1499,2141"/>
+                    <pc:Word id="word-f0a20f2e-3b1c-472b-913b-ef47a98ec058">
+                        <pc:Coords points="1499,2100 1525,2101 1525,2141 1499,2141"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>3</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>3</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-ce471a6d-2bae-458a-ada0-73367cae7c6c">
+                <pc:Coords points="1590,1994 1750,1994 1751,2212 1591,2211"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="7" columnIndex="5" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-ce576552-6158-4539-80a3-f139c2c5a950">
+                    <pc:Coords points="1588,2051 1729,2051 1729,2092 1588,2092"/>
+                    <pc:Word id="word-ca8085d3-2568-4380-a587-16869643a8b2">
+                        <pc:Coords points="1588,2051 1729,2051 1729,2092 1588,2092"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>10844</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>10844</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-4c40e757-1a04-49be-9c7b-892fdcb0d791">
+                <pc:Coords points="1750,1994 2115,1996 2117,2214 1751,2212"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="7" columnIndex="6" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-59e37308-ce23-4e76-b961-3f5b7f6fb732">
+                    <pc:Coords points="1758,2053 2169,2054 2169,2092 1758,2090"/>
+                    <pc:Word id="word-ab8ca580-2c60-4891-a324-a5ede7be37a6">
+                        <pc:Coords points="1758,2053 1874,2053 1874,2091 1758,2090"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Maks</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-4593fc0f-5cf6-4013-ba07-940dc36407f3">
+                        <pc:Coords points="1904,2054 2169,2055 2169,2091 1904,2090"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Stanislaw</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Maks Stanislaw</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-a55eb0fc-7d78-40ee-b9ad-9692f4bed9d8">
+                <pc:Coords points="2115,1996 2392,1997 2394,2215 2117,2214"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="7" columnIndex="7" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-f38cc6ff-7ff8-4d04-8bed-226785d9ada7">
+                <pc:Coords points="238,2206 388,2206 387,2419 237,2419"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="8" columnIndex="1" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-c574aa72-37e3-4d7f-b94a-033efa4a0d7d">
+                    <pc:Coords points="301,2261 327,2261 327,2302 301,2302"/>
+                    <pc:Word id="word-338f581e-ca8e-4ddb-a59c-8917a33541f2">
+                        <pc:Coords points="301,2261 327,2261 327,2302 301,2302"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>7</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>7</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-3dedcaec-1411-4e66-bd6d-c517c86fcc5b">
+                <pc:Coords points="388,2206 809,2208 809,2421 387,2419"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="8" columnIndex="2" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-ff621d95-a302-4364-9ce9-2cff4df409a5">
+                    <pc:Coords points="503,2262 827,2263 827,2301 503,2300"/>
+                    <pc:Word id="word-9aa8032c-269d-427f-8435-bcb171ea8411">
+                        <pc:Coords points="503,2262 827,2263 827,2301 503,2300"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Gonscherika</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Gonscherika</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-fdeffbe8-b1ad-42d2-badc-128bdb8bcea0">
+                    <pc:Coords points="444,2312 679,2313 679,2349 444,2348"/>
+                    <pc:Word id="word-125e7b36-8b6e-4340-b688-e3ffc61e81d8">
+                        <pc:Coords points="444,2312 536,2313 536,2348 444,2348"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Neu</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-b4a65ad4-cffb-4288-9eca-872b5c18336d">
+                        <pc:Coords points="560,2313 679,2313 679,2349 560,2348"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Wola</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Neu Wola</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-dca0cdd8-d64e-4942-a053-846efc68757e">
+                <pc:Coords points="809,2208 1427,2211 1428,2424 809,2421"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="8" columnIndex="3" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-e39268d1-9ec9-44c0-8950-feaf4127889a">
+                    <pc:Coords points="852,2238 1351,2240 1351,2286 852,2284"/>
+                    <pc:Word id="word-1d519fc3-b056-4109-989e-62fad513320e">
+                        <pc:Coords points="852,2238 1059,2239 1059,2277 852,2276"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Schmidt</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-c0711c05-efd9-4c67-b8ea-4fcd99bb4fa9">
+                        <pc:Coords points="1085,2241 1351,2242 1351,2286 1085,2285"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Friedrich</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Schmidt Friedrich</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-b800e8c9-9f1e-461a-b446-274c1820e0ed">
+                    <pc:Coords points="852,2281 1289,2283 1289,2335 852,2333"/>
+                    <pc:Word id="word-7f52b215-696c-480d-a4e2-6ed17dcbfbdc">
+                        <pc:Coords points="852,2288 911,2288 911,2324 852,2324"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Wo</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-84925330-a388-4531-a2a9-2c469378ffa1">
+                        <pc:Coords points="944,2282 1289,2283 1289,2335 944,2334"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>I/10-12/61/1</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Wo I/10-12/61/1</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-c0203215-f7a5-482a-98ea-b425fa658a8b">
+                    <pc:Coords points="857,2334 1000,2335 1000,2375 857,2374"/>
+                    <pc:Word id="word-3bc2468d-42a4-4dc6-b428-6f4e45a862e9">
+                        <pc:Coords points="857,2334 1000,2335 1000,2375 857,2374"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>64602</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>64602</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-7ec1850b-9c03-4c3f-8278-4c08be80728c">
+                <pc:Coords points="1427,2211 1591,2211 1592,2425 1428,2424"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="8" columnIndex="4" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-524a64b5-90f2-4254-8a27-c881ef050fd0">
+                    <pc:Coords points="1498,2341 1524,2341 1524,2381 1498,2381"/>
+                    <pc:Word id="word-9e2af82b-409e-4c1d-b091-f2624270f881">
+                        <pc:Coords points="1498,2341 1524,2341 1524,2381 1498,2381"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>7</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>7</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-d63359de-e85d-4398-b115-43da441853a8">
+                <pc:Coords points="1591,2211 1751,2212 1752,2425 1592,2425"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="8" columnIndex="5" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-178baa3e-2430-4517-975b-b08ea6f352fa">
+                    <pc:Coords points="1587,2293 1728,2293 1728,2335 1588,2334"/>
+                    <pc:Word id="word-8877fee5-f6ae-44e0-a163-2f53a3f75ed0">
+                        <pc:Coords points="1587,2293 1728,2293 1728,2335 1588,2334"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>10845</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>10845</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-e85a8cfc-46e2-4b3e-87d7-0d69b0b9b799">
+                <pc:Coords points="1751,2212 2117,2214 2119,2427 1752,2425"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="8" columnIndex="6" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-efec89ff-35d1-4441-8fc7-e74977b76c49">
+                    <pc:Coords points="1756,2295 2052,2296 2053,2339 1756,2338"/>
+                    <pc:Word id="word-86d9ba5a-b027-4390-929b-fa61b5005c07">
+                        <pc:Coords points="1756,2295 1905,2295 1905,2339 1756,2338"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Rybka</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-1781e50d-af7c-4fce-9ca6-588a8b04144f">
+                        <pc:Coords points="1936,2296 2052,2297 2052,2333 1936,2332"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Adam</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Rybka Adam</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-ef8e5856-1852-461e-a1a7-09dad057971f">
+                <pc:Coords points="2117,2214 2394,2215 2396,2428 2119,2427"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="8" columnIndex="7" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-e0d7c6b3-72f2-42ed-993d-295af41ec5fe">
+                <pc:Coords points="237,2419 387,2419 386,2638 236,2637"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="9" columnIndex="1" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-1f5a4665-adad-4f92-9ab8-3fb1718b79c5">
+                    <pc:Coords points="299,2479 327,2479 327,2514 299,2514"/>
+                    <pc:Word id="word-354919d7-5e4f-469e-9a98-5c4a59d59888">
+                        <pc:Coords points="299,2479 327,2479 327,2514 299,2514"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>8</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>8</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-076d04df-5bc5-41ac-ac2c-5d897c43e8ea">
+                <pc:Coords points="387,2419 809,2421 809,2640 386,2638"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="9" columnIndex="2" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-f5e372b3-3e17-4149-95cb-7268da986a27">
+                    <pc:Coords points="442,2479 712,2480 712,2519 442,2518"/>
+                    <pc:Word id="word-2425fa64-4fff-40ff-9a8e-7746ea03ff8c">
+                        <pc:Coords points="442,2482 535,2482 535,2517 442,2517"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Neu</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-570e73ae-1b0a-4587-bf7a-cc21af428369">
+                        <pc:Coords points="559,2480 712,2480 712,2519 559,2519"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Werba</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Neu Werba</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-8a9983ae-3233-427c-adfb-b14e32ee9f77">
+                    <pc:Coords points="444,2529 705,2530 705,2567 444,2566"/>
+                    <pc:Word id="word-0e4c43a6-4e17-4d2f-b169-5773b94b5141">
+                        <pc:Coords points="444,2529 705,2530 705,2567 444,2566"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Waldhorst</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Waldhorst</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-af5d8190-f0ee-4f3e-82ba-7f10846e3515">
+                <pc:Coords points="809,2421 1428,2424 1429,2643 809,2640"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="9" columnIndex="3" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-23ce89c3-50a1-46bf-bc44-60881bc91dc3">
+                    <pc:Coords points="853,2433 1320,2435 1320,2472 853,2470"/>
+                    <pc:Word id="word-0b7971b6-b6f5-4ce1-a91f-7f34b3f7b3e7">
+                        <pc:Coords points="853,2433 1028,2434 1028,2471 853,2470"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Bruske</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-0d2b2f23-baae-4d18-ad4e-aa81514de9c5">
+                        <pc:Coords points="1054,2434 1320,2435 1320,2472 1054,2471"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Friedrich</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Bruske Friedrich</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-a75e8bb8-42f6-471d-bc10-c296e4431911">
+                    <pc:Coords points="851,2476 1316,2478 1316,2529 851,2527"/>
+                    <pc:Word id="word-ff2bde79-18fb-4984-b2d2-1a6bd9fa6723">
+                        <pc:Coords points="851,2484 910,2484 910,2517 851,2517"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Wo</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-a82df6ea-edb3-41e9-b05e-d8d560c6a90a">
+                        <pc:Coords points="941,2476 1316,2478 1316,2529 941,2527"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>III/1-9/59/25</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Wo III/1-9/59/25</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-6bcc7c4f-83fc-4614-a7e5-3199fce8e9c1">
+                    <pc:Coords points="853,2528 998,2529 998,2571 853,2571"/>
+                    <pc:Word id="word-b9f76e3e-3421-4ff9-9e36-e2b3e9ac709d">
+                        <pc:Coords points="853,2528 998,2529 998,2571 853,2571"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>16009</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>16009</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-04f41fa8-6966-4787-aa71-b7edafb5f5a3">
+                <pc:Coords points="1428,2424 1592,2425 1593,2644 1429,2643"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="9" columnIndex="4" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-2ec82063-b22d-42ed-82fc-a6721f65d69a">
+                    <pc:Coords points="1497,2535 1523,2535 1523,2577 1497,2577"/>
+                    <pc:Word id="word-28caef1e-f1fb-4477-ab82-fe5c940143ca">
+                        <pc:Coords points="1497,2535 1523,2535 1523,2577 1497,2577"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>5</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>5</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-e45f4b4c-72ff-4048-bfa0-8a286a8930c4">
+                <pc:Coords points="1592,2425 1752,2425 1753,2644 1593,2644"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="9" columnIndex="5" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-f7598e21-7d67-40d4-ab37-95e7dc404056">
+                    <pc:Coords points="1611,2486 1754,2487 1755,2527 1611,2526"/>
+                    <pc:Word id="word-128c8b30-866d-4915-bbc6-018b5f9efc30">
+                        <pc:Coords points="1611,2486 1754,2487 1755,2527 1611,2526"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>10846</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>10846</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-e92a3970-1a89-44d2-9334-9bf44f958f6b">
+                <pc:Coords points="1752,2425 2119,2427 2121,2646 1753,2644"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="9" columnIndex="6" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-0ad17b1e-aad4-4fdb-9fb8-44c59f8ed23d">
+                    <pc:Coords points="1842,2490 2255,2491 2255,2530 1843,2528"/>
+                    <pc:Word id="word-bc6ce74c-f430-4589-8d28-e200ee84375e">
+                        <pc:Coords points="1842,2490 2078,2491 2078,2527 1843,2526"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Rakowski</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-451f904f-d68a-4745-bc22-0028fb7eaa14">
+                        <pc:Coords points="2110,2491 2255,2492 2255,2530 2110,2529"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Piotr</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Rakowski Piotr</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-0799c9e7-08bb-4364-801f-27062c78605e">
+                <pc:Coords points="2119,2427 2396,2428 2399,2647 2121,2646"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="9" columnIndex="7" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-0ad17b1e-aad4-4fdb-9fb8-44c59f8ed23d">
+                    <pc:Coords points="1842,2490 2255,2491 2255,2530 1843,2528"/>
+                    <pc:Word id="word-bc6ce74c-f430-4589-8d28-e200ee84375e">
+                        <pc:Coords points="1842,2490 2078,2491 2078,2527 1843,2526"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Rakowski</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-451f904f-d68a-4745-bc22-0028fb7eaa14">
+                        <pc:Coords points="2110,2491 2255,2492 2255,2530 2110,2529"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Piotr</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Rakowski Piotr</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-0212232c-7b55-4186-8272-431534f18f37">
+                <pc:Coords points="236,2637 386,2638 385,2853 235,2853"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="10" columnIndex="1" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-ba0fefc5-7a0c-4ab2-9c82-e79f902fbd13">
+                    <pc:Coords points="300,2698 326,2698 326,2737 300,2737"/>
+                    <pc:Word id="word-9afaa29c-a02b-4c08-986c-46c141844a8d">
+                        <pc:Coords points="300,2698 326,2698 326,2737 300,2737"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>9</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>9</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-91434d64-2c5c-4615-8596-7a90e6fbe01b">
+                <pc:Coords points="386,2638 809,2640 808,2856 385,2853"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="10" columnIndex="2" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-b379d354-19ba-4b93-a6ba-11f697926f2b">
+                    <pc:Coords points="503,2698 822,2700 822,2735 502,2734"/>
+                    <pc:Word id="word-44f26699-e5f7-49ba-9927-55f2fe1dc1f0">
+                        <pc:Coords points="503,2698 822,2700 822,2735 502,2734"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Gonschorika</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Gonschorika</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-1996ee29-4d1f-4389-99ce-09f717509118">
+                    <pc:Coords points="441,2748 679,2749 678,2787 441,2786"/>
+                    <pc:Word id="word-182d4901-88f3-41f0-b3db-4d4a61cca9b4">
+                        <pc:Coords points="441,2748 535,2748 535,2786 441,2785"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Neu</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-4e527de3-afa5-47f6-8a00-72ce6a9b0a3e">
+                        <pc:Coords points="557,2749 679,2750 678,2787 557,2786"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Wola</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Neu Wola</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-1e2cb3c2-4593-49b0-b32c-8d2b19a718c3">
+                <pc:Coords points="809,2640 1429,2643 1429,2859 808,2856"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="10" columnIndex="3" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-9f2336f4-5ae9-4f06-ac69-311e646d465f">
+                    <pc:Coords points="880,2677 1261,2679 1261,2723 880,2721"/>
+                    <pc:Word id="word-5fd88600-e76e-47de-ab3e-a305b99dc0fb">
+                        <pc:Coords points="880,2678 1057,2679 1058,2722 880,2721"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Bürger</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-5cd1f473-a540-4c17-bd5a-c6a7b6ed1ca1">
+                        <pc:Coords points="1087,2678 1261,2679 1261,2715 1087,2714"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Johann</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Bürger Johann</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-82ebd5bc-3066-407c-8978-0015a4fc8741">
+                    <pc:Coords points="879,2719 1346,2721 1347,2774 879,2771"/>
+                    <pc:Word id="word-67d58db6-23a0-4866-b5ac-5e66825106c3">
+                        <pc:Coords points="879,2728 939,2729 939,2763 879,2763"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Wo</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-8375f82b-aba3-4868-b1bb-e42f3ce31bb2">
+                        <pc:Coords points="973,2719 1346,2721 1347,2774 973,2772"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>I/10-16/90/14</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Wo I/10-16/90/14</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-d6a5eec2-ead3-411b-8d82-82f0a1c39581">
+                    <pc:Coords points="911,2775 1083,2776 1083,2818 911,2817"/>
+                    <pc:Word id="word-128b6d97-c38c-47e3-a7db-598f9302df65">
+                        <pc:Coords points="911,2775 1083,2776 1083,2818 911,2817"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>131300</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>131300</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-43a2e691-947d-4c85-84b3-d5fdf1918d92">
+                <pc:Coords points="1429,2643 1593,2644 1594,2860 1429,2859"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="10" columnIndex="4" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-4b51e41c-c009-43c8-9273-ead1de74144f">
+                    <pc:Coords points="1495,2778 1523,2778 1523,2820 1495,2820"/>
+                    <pc:Word id="word-e5df2c0e-af6b-4be6-9a90-c6285a99d43f">
+                        <pc:Coords points="1495,2778 1523,2778 1523,2820 1495,2820"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>7</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>7</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-e12005bf-3229-497d-a575-f695d81cb38d">
+                <pc:Coords points="1593,2644 1753,2644 1755,2860 1594,2860"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="10" columnIndex="5" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-f38845aa-b3e0-40df-af2a-161785c1bfc5">
+                    <pc:Coords points="1583,2728 1726,2728 1726,2769 1583,2769"/>
+                    <pc:Word id="word-c569737e-7dc7-4322-8a1d-93024771a0ae">
+                        <pc:Coords points="1583,2728 1726,2728 1726,2769 1583,2769"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>10847</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>10847</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-70bc5a19-67a5-4de8-a544-e786b1b6d686">
+                    <pc:Coords points="1640,2780 1726,2780 1726,2815 1640,2815"/>
+                    <pc:Word id="word-a9ff27a0-dc3e-4743-a1d6-88026dbe1324">
+                        <pc:Coords points="1640,2780 1726,2780 1726,2815 1640,2815"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>A+B</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>A+B</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-8bca91b4-0c54-4060-8ab9-498736cb7f30">
+                <pc:Coords points="1753,2644 2121,2646 2123,2862 1755,2860"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="10" columnIndex="6" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-f73e50ac-f0b5-4148-a3e9-8fb6dd6d295e">
+                    <pc:Coords points="1812,2730 2316,2733 2316,2780 1812,2777"/>
+                    <pc:Word id="word-db0683d5-178f-462a-a747-f43b404581d5">
+                        <pc:Coords points="1812,2730 2048,2731 2048,2769 1812,2768"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Kaminski</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-504a836d-59df-473c-ade7-c377bb05dfaf">
+                        <pc:Coords points="2074,2735 2316,2736 2316,2780 2074,2778"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Wojciech</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Kaminski Wojciech</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-7d9b1f0e-87cc-4b59-835e-01ce6b643b91">
+                    <pc:Coords points="1787,2779 2364,2782 2365,2823 1787,2820"/>
+                    <pc:Word id="word-7852c8df-21a6-4037-bfba-f043fc3e3dce">
+                        <pc:Coords points="1787,2779 2048,2781 2048,2820 1787,2819"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Perlinski</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-774fa97f-5b6f-461c-8418-b32754041bc0">
+                        <pc:Coords points="2075,2782 2364,2784 2365,2823 2075,2822"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Franciszek</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Perlinski Franciszek</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-fe1a1928-8bed-4d10-8226-3dc76d340029">
+                <pc:Coords points="2121,2646 2399,2647 2401,2864 2123,2862"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="10" columnIndex="7" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-f73e50ac-f0b5-4148-a3e9-8fb6dd6d295e">
+                    <pc:Coords points="1812,2730 2316,2733 2316,2780 1812,2777"/>
+                    <pc:Word id="word-db0683d5-178f-462a-a747-f43b404581d5">
+                        <pc:Coords points="1812,2730 2048,2731 2048,2769 1812,2768"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Kaminski</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-504a836d-59df-473c-ade7-c377bb05dfaf">
+                        <pc:Coords points="2074,2735 2316,2736 2316,2780 2074,2778"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Wojciech</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Kaminski Wojciech</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-7d9b1f0e-87cc-4b59-835e-01ce6b643b91">
+                    <pc:Coords points="1787,2779 2364,2782 2365,2823 1787,2820"/>
+                    <pc:Word id="word-7852c8df-21a6-4037-bfba-f043fc3e3dce">
+                        <pc:Coords points="1787,2779 2048,2781 2048,2820 1787,2819"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Perlinski</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-774fa97f-5b6f-461c-8418-b32754041bc0">
+                        <pc:Coords points="2075,2782 2364,2784 2365,2823 2075,2822"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Franciszek</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Perlinski Franciszek</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-47a17af0-8b3b-4d47-98d8-6c33525f5055">
+                <pc:Coords points="235,2853 385,2853 384,3059 234,3058"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="11" columnIndex="1" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-f573d600-f2f7-43f4-bca0-b417f03e8bda">
+                    <pc:Coords points="299,2917 354,2918 354,2953 299,2953"/>
+                    <pc:Word id="word-13ae4038-481d-413f-9f3f-69ce862dc251">
+                        <pc:Coords points="299,2917 354,2918 354,2953 299,2953"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>10</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>10</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-f97e1201-7d3a-4751-b3bb-6a7d5a7651b2">
+                <pc:Coords points="385,2853 808,2856 808,3061 384,3059"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="11" columnIndex="2" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-bba1c503-ebfc-4877-8405-2d868c7a6e61">
+                    <pc:Coords points="471,2919 704,2920 703,2964 471,2963"/>
+                    <pc:Word id="word-4e81cd2a-6c48-4555-b1de-bbb08bdbe8b7">
+                        <pc:Coords points="471,2919 704,2920 703,2964 471,2963"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Ludmipol</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Ludmipol</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-17c2a245-4795-498c-b00d-20063a523927">
+                    <pc:Coords points="441,2968 703,2969 703,3006 440,3004"/>
+                    <pc:Word id="word-7ce9f20b-eb2b-410a-b3d5-e7b23e851672">
+                        <pc:Coords points="441,2968 703,2969 703,3006 440,3004"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Waldhorst</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Waldhorst</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-4a15fc94-58bb-4a60-b5d8-e6764b026aea">
+                <pc:Coords points="808,2856 1429,2859 1430,3065 808,3061"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="11" columnIndex="3" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-4a62d6eb-c216-45cf-bbb0-d90d7bde1664">
+                    <pc:Coords points="851,2871 1174,2873 1174,2911 851,2909"/>
+                    <pc:Word id="word-cb1cef5a-aee9-4e36-a194-70f15a1cbe0d">
+                        <pc:Coords points="851,2873 969,2873 969,2910 851,2909"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Hein</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-755e3cec-b755-4a85-b286-7eda98d546ba">
+                        <pc:Coords points="996,2872 1174,2873 1174,2911 996,2910"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Eduard</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Hein Eduard</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-bd5cf00a-6794-43a3-bac9-e02ccc4a5659">
+                    <pc:Coords points="851,2914 1256,2916 1256,2967 850,2965"/>
+                    <pc:Word id="word-22eee750-5a8e-446f-b3e1-377c9ec5ecd1">
+                        <pc:Coords points="850,2923 908,2924 908,2959 850,2959"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Wo</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-d4765711-943c-42f5-916b-913eadb7a513">
+                        <pc:Coords points="940,2915 1256,2916 1256,2967 940,2966"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>III/1-2/1/3</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Wo III/1-2/1/3</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-81844d98-c4b1-4fe2-99eb-d6b5b6fdc4f5">
+                    <pc:Coords points="882,2970 1026,2971 1026,3012 882,3011"/>
+                    <pc:Word id="word-76782e2e-98ec-4e67-a7f3-5deb3672f4ed">
+                        <pc:Coords points="882,2970 1026,2971 1026,3012 882,3011"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>25578</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>25578</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-42a09cff-a197-473a-8c08-40d68cbf1f9f">
+                <pc:Coords points="1429,2859 1594,2860 1595,3066 1430,3065"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="11" columnIndex="4" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-c56fca9e-a7bf-4fd1-922b-c973b1a83c63">
+                    <pc:Coords points="1494,2924 1522,2925 1522,2966 1494,2965"/>
+                    <pc:Word id="word-48c94943-98d8-4285-9289-dba0eaa22711">
+                        <pc:Coords points="1494,2924 1522,2925 1522,2966 1494,2965"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>3</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>3</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-2cb26d65-bc55-4d94-a3cd-638639dd995d">
+                <pc:Coords points="1594,2860 1755,2860 1756,3066 1595,3066"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="11" columnIndex="5" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-975d9106-5169-4371-a3ec-6ee5e3107c9c">
+                    <pc:Coords points="1609,2923 1752,2923 1752,2962 1610,2961"/>
+                    <pc:Word id="word-c8947d16-173b-41b1-b0d8-addb0807d1f4">
+                        <pc:Coords points="1609,2923 1752,2923 1752,2962 1610,2961"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>10848</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>10848</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-7d1a621d-e89a-495a-b6bc-b1db687eb479">
+                    <pc:Coords points="1607,2974 1697,2974 1698,3009 1607,3008"/>
+                    <pc:Word id="word-c7e299e0-4683-4257-9dd6-dff1115f76a9">
+                        <pc:Coords points="1607,2974 1697,2974 1698,3009 1607,3008"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>A+B</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>A+B</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-c0c02ba7-255b-453a-b832-98c746e47d08">
+                <pc:Coords points="1755,2860 2123,2862 2124,3068 1756,3066"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="11" columnIndex="6" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-c6183526-7bc7-4bb0-90d6-e1ae68e0480f">
+                    <pc:Coords points="1814,2926 2343,2929 2343,2967 1814,2964"/>
+                    <pc:Word id="word-8cabea69-26c5-421d-9aa1-0174926f758e">
+                        <pc:Coords points="1814,2927 2048,2928 2049,2966 1814,2964"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Ludwicki</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-c94f849c-f136-4049-9377-7fca9943866c">
+                        <pc:Coords points="2073,2928 2343,2929 2343,2967 2073,2966"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Stanislaw</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Ludwicki Stanislaw</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-8d0aa9cb-b4b4-41c1-b51e-6a2241a2a610">
+                    <pc:Coords points="1843,2976 2363,2979 2363,3016 1843,3013"/>
+                    <pc:Word id="word-faba8701-9d23-4f3a-91c0-9ca1ffe5da55">
+                        <pc:Coords points="1843,2976 2080,2977 2080,3015 1843,3013"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Pietrzak</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-c25440cd-7338-4328-bebe-3373d6446efc">
+                        <pc:Coords points="2107,2978 2363,2980 2363,3016 2108,3015"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Stanislaw</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Pietrzak Stanislaw</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+            <pc:TextRegion id="cell-region-1c828d71-8c2f-4018-b3f7-99e3eea3ced1">
+                <pc:Coords points="2123,2862 2401,2864 2403,3070 2124,3068"/>
+                <pc:Roles>
+                    <pc:TableCellRole rowIndex="11" columnIndex="7" rowSpan="1" colSpan="1" header="false"/>
+                </pc:Roles>
+                <pc:TextLine id="line-c6183526-7bc7-4bb0-90d6-e1ae68e0480f">
+                    <pc:Coords points="1814,2926 2343,2929 2343,2967 1814,2964"/>
+                    <pc:Word id="word-8cabea69-26c5-421d-9aa1-0174926f758e">
+                        <pc:Coords points="1814,2927 2048,2928 2049,2966 1814,2964"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Ludwicki</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-c94f849c-f136-4049-9377-7fca9943866c">
+                        <pc:Coords points="2073,2928 2343,2929 2343,2967 2073,2966"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Stanislaw</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Ludwicki Stanislaw</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+                <pc:TextLine id="line-8d0aa9cb-b4b4-41c1-b51e-6a2241a2a610">
+                    <pc:Coords points="1843,2976 2363,2979 2363,3016 1843,3013"/>
+                    <pc:Word id="word-faba8701-9d23-4f3a-91c0-9ca1ffe5da55">
+                        <pc:Coords points="1843,2976 2080,2977 2080,3015 1843,3013"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Pietrzak</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:Word id="word-c25440cd-7338-4328-bebe-3373d6446efc">
+                        <pc:Coords points="2107,2978 2363,2980 2363,3016 2108,3015"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>Stanislaw</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Word>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Pietrzak Stanislaw</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:TextLine>
+            </pc:TextRegion>
+        </pc:TableRegion>
+    </pc:Page>
+</pc:PcGts>
