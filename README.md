@@ -11,7 +11,7 @@ The dataset was derived from around 750 scanned pages containing mostly tabular 
 
 The dataset comprises 4838 records with 21 fields and is provided as CSV (Comma-Separated-Values). Empty fields denote that no information was present in the original document. The field names correspond as far as possible to the field names in the original documents.
 
-> [!NOTE]
+> [!IMPORTANT]
 > Despite extensive manual curation efforts, the dataset isn't free from erroneous data. **Please see [Issues](/../../issues/)**.
 
 | Field Name                | Data Type | Description |
