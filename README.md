@@ -26,7 +26,7 @@ The dataset comprises 4838 records with 21 fields and is provided as CSV (Comma-
 | **Lfd.Nr.**               | Integer   | Sequential or running number for a certain resettlement event. |
 | **Heimatort**             | String    | Place of origin or hometown of the German settlers. |
 | **Lager_lt_Vomi**         | String    | Name or number of the camp according to VoMi (Volksdeutsche Mittelstelle). |
-| **Lager_lt_AKK**          | String    | Name or number of the camp according to AKK. |
+| **Lager_lt_AK-K**          | String    | Name or number of the camp according to AK-K. |
 | **Name**                  | String    | Last name of the family head of the German settlers. . |
 | **Vorname**               | String    | First name of the family head of the German settlers. . |
 | **Umsiedlungsnummer**     | String    | Resettlement number assigned to the individual or family (Germans). |

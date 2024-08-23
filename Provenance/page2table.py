@@ -23,7 +23,7 @@
         - sometimes the numbers are left of the border -> this causes the creation of a new 0th col and the
         first col is empty. check this by counting col, if nb == 8: remove 0th col
     - 1st col:
-        - try to split into three cols (Heimatort, lager VOMI, lager AKK) by splitting at \n:
+        - try to split into three cols (Heimatort, lager VOMI, lager AK-K) by splitting at \n:
         - if nb(\n)>3: write all cell information in Heimatort col and fill the other cols with empty strings (mark this with >ERR(...))
         - if nb(\n)<3: fill remaining cols with empty strings
         - if len of string in cell <2 e. string contains '' or " or similar, which indicates equality of content with top cell): 
@@ -166,7 +166,7 @@ def export(in_path, includes_yard_size_col):
                 "Kreis",
                 "Heimatort",
                 "Lager_lt_Vomi",
-                "Lager_lt_AKK",
+                "Lager_lt_AK-K",
                 "Name",
                 "Vorname",
                 "Umsiedlungsnummer",
@@ -393,7 +393,7 @@ def export(in_path, includes_yard_size_col):
                         origin, camp_vomi, camp_akk = (
                             table_dict["Heimatort"][-1],
                             table_dict["Lager_lt_Vomi"][-1],
-                            table_dict["Lager_lt_AKK"][-1],
+                            table_dict["Lager_lt_AK-K"][-1],
                         )
                     else:
                         lines = col.strip("\n").split("\n")
@@ -466,7 +466,7 @@ def export(in_path, includes_yard_size_col):
             table_dict["Kreis"].append(district.strip())
             table_dict["Heimatort"].append(origin.strip())
             table_dict["Lager_lt_Vomi"].append(camp_vomi.strip())
-            table_dict["Lager_lt_AKK"].append(camp_akk.strip())
+            table_dict["Lager_lt_AK-K"].append(camp_akk.strip())
             table_dict["Name"].append(last_name.strip())
             table_dict["Vorname"].append(first_name.strip())
             table_dict["Umsiedlungsnummer"].append(resettlement_nb.strip())
