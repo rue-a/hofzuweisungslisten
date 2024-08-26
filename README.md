@@ -9,15 +9,14 @@ The dataset was derived from around 750 scanned pages containing mostly tabular 
 
 ## Dataset Description
 
-The dataset comprises 4838 records with 21 fields and is provided as CSV (Comma-Separated-Values). Empty fields denote that no information was present in the original document. The field names correspond as far as possible to the field names in the original documents.
+The dataset comprises 4838 records with 21 fields and is provided as CSV (Comma-Separated-Values). Empty fields denote that no information was present in the original document. The field names correspond as far as possible to the field names in the original documents. Fields that were added by the editors are marked with an asterisk (*).
 
 > [!IMPORTANT]
 > Despite extensive curation efforts, the dataset is not free from erroneous data. **Please see [Issues](/../../issues/)**.
 
 | Field Name                | Data Type | Description |
 |---------------------------|-----------|-------------|
-| **signature**             | String    | Signature string derived from the filename of the scanned sheet (*filename = <signature_string>_<sheet_number>*).|
-| **sheet_number**          | Integer   | Sheet number derived from the filename of the scanned sheet (*filename = <signature_string>_<sheet_number>*). |
+| ***id**                    | String    | ID of the record. ID = <file_signature>-<sheet_number>-<row_number>. Both sheet number and row number begin with 0. The row number is not equal to the value in the field _Lfd.Nr._
 | **Datum_Liste**           | Date      | Date when the list was created or documented. |
 | **Datum_Ansiedlung**      | Date      | Date of resettlement event. |
 | **Ansiedlungsdorf**       | String    | Name of the settlement village. |
@@ -26,7 +25,7 @@ The dataset comprises 4838 records with 21 fields and is provided as CSV (Comma-
 | **Lfd.Nr.**               | Integer   | Sequential or running number for a certain resettlement event. |
 | **Heimatort**             | String    | Place of origin or hometown of the German settlers. |
 | **Lager_lt_Vomi**         | String    | Name or number of the camp according to VoMi (Volksdeutsche Mittelstelle). |
-| **Lager_lt_AK-K**          | String    | Name or number of the camp according to AK-K. |
+| **Lager_lt_AK-K**         | String    | Name or number of the camp according to AK-K. |
 | **Name**                  | String    | Last name of the family head of the German settlers. . |
 | **Vorname**               | String    | First name of the family head of the German settlers. . |
 | **Umsiedlungsnummer**     | String    | Resettlement number assigned to the individual or family (Germans). |
@@ -36,7 +35,8 @@ The dataset comprises 4838 records with 21 fields and is provided as CSV (Comma-
 | **Ehemalige_Besitzer**    | String    | Previous owner(s) of the property. |
 | **Kopfzahl_ehemalige_Besitzer** | Integer | Number of individuals in the previous owner's family. |
 | **Bemerkung**             | String    | Additional remarks or comments regarding the record. |
-| **notes_from_editors**    | String    | Notes or annotations provided by the editors of the record. |
+| ***notes_from_editors**    | String    | Notes or annotations provided by the editors of the record. |
+| ***image_filename**    | String    | Filename of the scan of the original document. |
 
 
 ## Further Context
