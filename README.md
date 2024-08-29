@@ -61,7 +61,7 @@ Before the resettlement (some would say uprooting) took place, each household/fa
 
 #### Application for this dataset
 
-The scheme described by Döring does not exactly match the data present in the field Umsiedlungsnummer. This is mostly due to inconsistent separators across the dataset (the scheme in this dataset would be `a b/c( ,.-=/)d/e/f`, see [Issue 9](/../../issues/9) for a Python snippet to normalize the separators). Also in this dataset `B` (for Blisk) does not appear, instead there are two occurrences of `Bi II`. 
+The scheme described by Döring does not exactly match the data present in the field Umsiedlungsnummer. This is mostly due to inconsistent separators across the dataset (the scheme in this dataset would be `a b/c( ,.-=/)d/e/f`, see [Issue 9](/../../issues/9) for a Python snippet to normalize the separators). Also in this dataset `B` (for Blisk) does not appear, instead there are two occurrences of `Bi I`. 
 
 
 ## Further Context
