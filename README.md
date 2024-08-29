@@ -3,7 +3,7 @@
 
 # Hofzuweisungslisten
 
-This repository is used to manage the dataset __Hofzuweisungslisten.csv__. It documents resettlement campaigns of Volhynian and Galician Germans (stemming from regions in today's western Ukraine, south-western Belarus and eastern Poland) into former polish territories, during 1940.
+This repository is used to manage the dataset __Hofzuweisungslisten.csv__. It documents resettlement campaigns of Volhynian and Galician Germans (stemming from regions in today's western Ukraine, south-western Belarus and eastern Poland) into former Polish territories, during 1940.
 
 The dataset was derived from around 750 scanned pages containing mostly tabular data (see *[Preprocessing](/Preprocessing/)* folder for more information).
 
@@ -40,12 +40,33 @@ The dataset comprises 4838 records with 21 fields and is provided as CSV (Comma-
 
 ### Umsiedlungsnummer
 
+In "Die Umsiedlung der Wolhyniendeutschen in den Jahren 1939 bis 1940" (Stephan Döring, 2001, en: Resettlement of the Wolhynian Germans in the years from 1939 to 1940), p. 88f, p. 105, the meaning of the Umsiedlungsnummer and the resettlement process in general are explained: 
+
+Before the resettlement (some would say uprooting) took place, each household/family that qualified to settle in the former West-Polish territories (namely Warthegau) was registered. The registration was organized by subdividing the territory in 50 areas (within 7 districts, within 3 regions), and subsequently conducted by travelling commissions that visited these areas. Each person that qualified for resettlement was registered and given a metal plate with their resettlement id (Umsiedlungsnummer), e.g. `Ga I 3/16/4/24`, stamped in. If we define an according scheme, `a b c/d/e/f`, then:
+
+- `a` (a one or two letter string, e.g. ,`Ga`) identifies the region in which the registration took place. According to Döring, there are Wo for Volhynia, Ga for Galicia and B for Bialystok, Polesia,
+- `b` (a Roman numeral, e.g., `I`) identifies the district within the according region. Ga and Wo were divided in 3 regions, B was a singular districts. Each district had a authorized district representative, who had a seat within the region. The seats for the 7 districts are: 
+    
+    - `Ga I` - Lemberg, 
+    - `Ga II` - Stanislau, 
+    - `Ga III` -Styri, 
+    - `Wo I` - Luck, 
+    - `Wo II` - Kostopol, 
+    - `Wo III` - Wladimir-Wolynsk, and 
+    - `b` - Bilsk, 
+- `c` (an Arabic numeral, e.g., `3`) identifies the area within the according district,
+- `d` (an Arabic numeral, e.g., `16`) identifies the number of the according governmental list (what this list is is not explained),
+- `e` (an Arabic numeral, e.g., `4`) identifies the running registration number of the registered household within the according registering area, and
+- `f` (an Arabic numeral, e.g., `24`) identifies the running number in the registration list.
+
+#### Application for this dataset
+
+The scheme described by Döring does not exactly match the data present in the field Umsiedlungsnummer. This is mostly due to inconsistent separators across the dataset (the scheme in this dataset would be `a b/c( ,.-=/)d/e/f`, see [Issue 9](/../../issues/9) for a Python snippet to normalize the separators). Also in this dataset `B` (for Blisk) does not appear, instead there are two occurrences of `Bi II`. 
 
 
 ## Further Context
 
-In 1940, the propaganda slogan "Heim ins Reich" (en: back home to the Reich) called upon numerous German-speaking population groups from Eastern and South-Eastern Europe to resettle in areas within the borders of the German Reich. However, the majority of these settlers were not granted land in the heartland but in the annexed territories. This “Germanization” of the east focused on formerly Polish territories, such as the Reichsgauen Wartheland (“Warthegau”) and Danzig-West Prussia. However, before the settlers were granted any land, they were placed in camps and  underwent   racial profiling, which (in essence) ascertained their degree of “Germaness”. If deemed insufficient, “inferior” settlers were deployed as cheap workforce in the heartland (Stephan Döring: Umsiedlung der Wolhyniendeutschen in den Jahren 1939 bis 1940
-). Conversely, the settlement of racially acceptable "returnees" was meticulously planned—often there were only a few hours between the expulsion of the former owners and the arrival of the German settlers. 
+In 1940, the propaganda slogan Heim ins Reich (en: back home to the Reich) called upon numerous German-speaking population groups from Eastern and South-Eastern Europe to resettle in areas within the borders of the German Reich. However, the majority of these settlers were not granted land in the heartland but in the annexed territories. This “Germanization” of the east focused on formerly Polish territories, such as the Reichsgauen Wartheland (“Warthegau”) and Danzig-West Prussia. However, before the settlers were granted any land, they were placed in camps and  underwent   racial profiling, which (in essence) ascertained their degree of “Germaness”. If deemed insufficient, “inferior” settlers were deployed as cheap workforce in the heartland (Stephan Döring: Umsiedlung der Wolhyniendeutschen in den Jahren 1939 bis 1940). Conversly, the settlement of “racially acceptable” returnees was meticulously planned—often there were only a few hours between the expulsion of the former Polsih owners from their farms and the arrival of the German settlers. 
 
 The resettlement campaigns were administered by the “Volksdeutsche Mittelstelle” (Vomi). Coordination and documentation was realized through so-called “Hofzuweisungslisten” (en: farm allocation lists). These were preprinted tabular forms, including the date of settlement, the settlement village, the names and family size of the settlers as well as those of the expelled former inhabitants, the settlers' place of origin and the camp in which the settlers lived. The columns of preprints were filled using typewriters some days ahead of the relocation of a family from the camp to their new homestead.
 
