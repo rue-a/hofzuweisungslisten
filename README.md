@@ -49,11 +49,11 @@ Before the resettlement (some would say uprooting) took place, each household/fa
     
     - `Ga I` - Lemberg, 
     - `Ga II` - Stanislau, 
-    - `Ga III` -Styri, 
+    - `Ga III` -Stryi, 
     - `Wo I` - Luck, 
     - `Wo II` - Kostopol, 
     - `Wo III` - Wladimir-Wolynsk, and 
-    - `b` - Bilsk, 
+    - `B` - Bilsk, 
 - `c` (an Arabic numeral, e.g., `3`) identifies the area within the according district,
 - `d` (an Arabic numeral, e.g., `16`) identifies the number of the according governmental list (what this list is is not explained),
 - `e` (an Arabic numeral, e.g., `4`) identifies the running registration number of the registered household within the according registering area, and
