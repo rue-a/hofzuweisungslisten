@@ -54,7 +54,7 @@ The dataset comprises 4838 records with 21 fields and is provided as CSV (Comma-
 
 ### The Meaning of the Column Umsiedlungsnummer
 
-In "Die Umsiedlung der Wolhyniendeutschen in den Jahren 1939 bis 1940" (Stephan Döring, 2001, en: Resettlement of the Wolhynian Germans in the years from 1939 to 1940), p. 88f, p. 105, the meaning of the Umsiedlungsnummer and the resettlement process in general are explained: 
+In "Die Umsiedlung der Wolhyniendeutschen in den Jahren 1939 bis 1940" (Stephan Döring, 2001, en: Resettlement of the Wolhynian Germans in the years from 1939 to 1940), p. 88 f, p. 105, the meaning of the Umsiedlungsnummer and the resettlement process in general are explained: 
 
 Before the resettlement (some would say uprooting) took place, each household/family that qualified to settle in the former West-Polish territories (namely Warthegau) was registered. The registration was organized by subdividing the territory in 50 areas (within 7 districts, within 3 regions). Each person that was willing and qualified for resettlement was registered and given a metal plate with their resettlement id (Umsiedlungsnummer), e.g. `Ga I 3/16/4/24`, stamped in. If we define an according scheme, `a b c/d/e/f`, then:
 
@@ -91,4 +91,4 @@ Once the settlers had been allocated a new farm, they were moved to (*Sammellage
 
 Compiling this information, we think that the column Lager\_lt\_Vomi denotes the settler's initial camp at Lodz, and Lager\_lt\_AK-K the camp where the full registration by the EWZ, i.e. the racial profiling, was conducted.
 
-
+(Die Umsiedlung der Wolhyniendeutschen in den Jahren 1939 bis 1940, Stephan Döring, 2001, p. 335 ff.)
