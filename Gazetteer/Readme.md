@@ -6,13 +6,13 @@ The gazetteers are provided according to the [LP-TSV v0.5](https://github.com/Li
 
 ## References
 
-### Döring, 2001, p. 88f and p. 105
+### [Gazetteer Resettlement Areas (Galicia, Volhynia)](./gazetteer_resettlement_area_ga-wo-b.csv)
 
-Decoding and explanation of the Umsiedlungsnummer (see [dataset Readme](../README.md#Umsiedlungsnummer)).
+**Döring, 2001, p. 88f and p. 105:** Decoding and explanation of the Umsiedlungsnummer (see [dataset Readme](../README.md#Umsiedlungsnummer)).
 
-### Döring, 2001, p. 367
+### [Gazetteer Camps]()
 
-Transcription of page 367, as CSV [here](./resources/camps_doering_2001_p367.csv). The column names translate to *withdrawl date*, *local district* (in [dataset Readme](../README.md#Umsiedlungsnummer) referred to as *area*), *administrative center of the local destrict* (no column name in original table), *assembly camp*, and *availability camp*.
+Transcription of **Döring, 2001, p. 367**, as CSV [here](./resources/camps_doering_2001_p367.csv). The column names translate to *withdrawl date*, *local district* (in [dataset Readme](../README.md#Umsiedlungsnummer) referred to as *area*), *administrative center of the local destrict* (no column name in original table), *assembly camp*, and *availability camp*.
 
 | Abberufungsdatum | Ortsbezirk   |   | Sammellager       | Bereitstellungslager   |
 |------------------|--------------|---------|-------------------|------------------------|
