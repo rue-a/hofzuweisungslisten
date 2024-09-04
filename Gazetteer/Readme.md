@@ -6,7 +6,7 @@ The gazetteers are provided according to the [LP-TSV v0.5](https://github.com/Li
 
 ## References
 
-### [Gazetteer Resettlement Areas (Galicia, Volhynia)](./gazetteer_resettlement_area_ga-wo-b.csv)
+### [Gazetteer Resettlement Areas (Galicia, Volhynia, Narew region)](./gazetteer_resettlement_area_ga-wo-b.csv)
 
 **Döring, 2001, p. 88f and p. 105:** Decoding and explanation of the Umsiedlungsnummer (see [dataset Readme](../README.md#Umsiedlungsnummer)).
 
