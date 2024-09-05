@@ -78,7 +78,7 @@ Before the resettlement (some would say uprooting) took place, each household/fa
 
 The scheme described by Döring does not exactly match the data present in the field Umsiedlungsnummer. This is mostly due to inconsistent separators across the dataset (the scheme in this dataset would be `a b/c( ,.-=/)d/e/f`, see [Issue 9](/../../issues/9) for a Python snippet to normalize the separators). Also in this dataset `B` (for Blisk) does not appear, instead there are two occurrences of `Bi I`. Finally, sometimes the field is empty or contains information why data is missing, e.g., the string `Vorumsiedler` is a rather common entry.
 
-### Sequence of Resettlement and the Meaning of the Columns Lager_lt_Vomi and Lager_lt_AK-K 
+### Course of Resettlement and the Meaning of the Columns Lager_lt_Vomi and Lager_lt_AK-K 
 
 Vomi – Volksdeutsche Mittelstelle<br>
 AK-K – AK-Karte, Arbeitskarteikarte
