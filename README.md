@@ -58,7 +58,7 @@ In "Die Umsiedlung der Wolhyniendeutschen in den Jahren 1939 bis 1940" (Stephan 
 
 Before the resettlement (some would say uprooting) took place, each household/family that qualified to settle in the former West-Polish territories (namely Warthegau) was registered. The registration was organized by subdividing the territory in 50 areas (within 7 districts, within 3 regions). Each person that was willing and qualified for resettlement was registered and given a metal plate with their resettlement id (Umsiedlungsnummer), e.g. `Ga I 3/16/4/24`, stamped in. If we define an according scheme, `a b c/d/e/f`, then:
 
-- `a` (a one or two letter string, e.g. ,`Ga`) identifies the region in which the registration took place. According to Döring, there are Wo for Volhynia, Ga for Galicia and B for Bilsk (Narew region),
+- `a` (a one or two letter string, e.g. ,`Ga`) identifies the region in which the registration took place. According to Döring, there are Wo for Volhynia, Ga for Galicia and B for Bialystok, Polesia (Narew or Bilsk region),
 - `b` (a Roman numeral, e.g., `I`) identifies the district within the according region. Ga and Wo were divided in 3 regions, B was a singular districts. Each district had a authorized district representative, who had a seat within the region. The seats for the 7 districts are: 
 
     - `Ga I` - Lemberg, 
