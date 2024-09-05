@@ -3,7 +3,7 @@
 
 # Hofzuweisungslisten
 
-This repository is used to manage the dataset __Hofzuweisungslisten.csv__. It documents resettlement campaigns of Volhynian and Galician Germans (stemming from regions in today's western Ukraine, south-western Belarus and eastern Poland) into former Polish territories, during 1940.
+This repository is used to manage the dataset __Hofzuweisungslisten.csv__. It documents resettlement campaigns of Volhynian, Galician, and Narew Germans (stemming from regions in today's western Ukraine, western Belarus, and southern and eastern Poland) into former Polish territories, during 1940.
 
 The dataset was derived from around 750 scanned pages containing mostly tabular data (see *[Preprocessing](/Preprocessing/)* folder for more information).
 
