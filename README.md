@@ -5,7 +5,7 @@
 
 This repository is used to manage the dataset __Hofzuweisungslisten.csv__. It documents resettlement campaigns of Volhynian, Galician, and Narew Germans (stemming from regions in today's western Ukraine, western Belarus, and southern and eastern Poland) into former Polish territories, during 1940.
 
-The dataset was derived from around 750 scanned pages containing mostly tabular data (see *[Preprocessing](/Preprocessing/)* folder for more information).
+The dataset was derived from around 750 scanned pages containing mostly tabular data (see *[Preprocessing](/Preprocessing/)* folder for more information). The orignial scans were downloaded from the [state archive Łódź](https://www.lodz.ap.gov.pl/).
 
 ## Further Context
 
@@ -14,10 +14,6 @@ In 1940, the propaganda slogan Heim ins Reich (en: back home to the Reich) calle
 The resettlement campaigns were administered by the “Volksdeutsche Mittelstelle” (Vomi). Coordination and documentation was realized through so-called “Hofzuweisungslisten” (en: farm allocation lists). These were preprinted tabular forms, including the date of settlement, the settlement village, the names and family size of the settlers as well as those of the expelled former inhabitants, the settlers' place of origin and the camp in which the settlers lived. The columns of preprints were filled using typewriters some days ahead of the relocation of a family from the camp to their new homestead.
 
 
-<!-- The poster presents a semi-automated workflow for creating a high-quality digital dataset from scans of such farm allocation lists. It focuses on recognizing the texts and the table structure using optical character recognition (OCR) methods and geocoding (assigning coordinates) the toponyms contained in the documents. Due to its exceptional performance with tables and typewriting, Amazon Textract was choosen for the initial OCR analysis. Subsequent analysis was instrumented with tools of the open source OCR suite OCR-D. To establish interoperability of the Textract output with OCR-D, a new OCR-D module which converts Amazon Textract outputs into the open PRImA-Page-XML format was developed (https://github.com/slub/textract2page). High accuracy geocoding was achieved by deriving a specialized gazetteer for the period and regions.
-The resulting  dataset was derived from approximately 750 scans, which mostly cover the resettlement campaigns of Volhynian and Galician Germans (stemming from regions in today's western Ukraine, south-western Belarus and eastern Poland). The dataset resolves to nearly 5000 entries, where each entry documents the settlement of a family and the expulsion of another. With a conservative estimate of a mean family size of five people, this would correspond to the documentation of 25,000 resettlements and just as many expulsions. The dataset is made available open and according to the FAIR principles (https://doi.org/10.5281/zenodo.10665221). It is provided in the tabular CSV file format and accompanied by a describing CSVW metadata file. This enables easy re-usability  of the data by common spreadsheet software, but also allows the conversion of the dataset into Linked Data formats for more advanced analysis.
-
-The central element of the poster is a multimodal exploration and presentation of the dataset on a map. -->
 
 ## Dataset Description
 
