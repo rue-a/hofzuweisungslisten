@@ -20,7 +20,7 @@ The resettlement campaigns were administered by the “Volksdeutsche Mittelstell
 The dataset comprises 4838 records with 21 fields and is provided as CSV (Comma-Separated-Values). Empty fields denote that no information was present in the original document. The field names correspond as far as possible to the field names in the original documents: spaces were replaced with underscore, stacked or otherwise combined columns were resolved into separate columns. Fields that were added by the editors are marked with an asterisk (*).
 
 > [!IMPORTANT]
-> Despite extensive curation efforts, the dataset is not free from erroneous data. **Please see [Issues](/../../issues/)**.
+> Despite extensive curation efforts, the dataset is not free from erroneous data. **Please see [Issues](/../../issues/)**. You are invited to contribute.
 
 | Field Name                | Data Type | Description |
 |---------------------------|-----------|-------------|
@@ -88,3 +88,32 @@ Once the settlers had been allocated a new farm, they were moved to (*Sammellage
 Compiling this information, we think that the column Lager\_lt\_Vomi denotes the settler's initial camp at Lodz, and Lager\_lt\_AK-K the camp where the full registration by the EWZ, i.e. the racial profiling, was conducted.
 
 (Die Umsiedlung der Wolhyniendeutschen in den Jahren 1939 bis 1940, Stephan Döring, 2001, p. 335 ff.)
+
+
+## Related Data
+
+### Historical administrative units of Galicia 1857–1910 
+
+- Geodata, Shapefiles
+- https://doi.org/10.7910/DVN/PXDP41
+
+### Historical National Boundaries
+
+- Geodata, Shapefiles
+- https://doi.org/10.13020/146x-1412
+
+### Map of German Settlements in Galicia
+
+- Image file, non-georeferenced
+- CC BY-NC-SA 3.0 license
+- [Map](https://semanchuk.com/gen/maps/UnterschutzGalizienDeutscheMap.png)
+- [Map index](https://semanchuk.com/gen/maps/UnterschutzIndex.html)
+
+
+### Maps of German Settlements in Volhynia
+
+- Image files, non-georeferenced
+- CC BY-NC-SA 3.0 license
+- [Polish volhynia](https://wolhynien.de/images/Lueck1927_gr.jpg)
+- [Ukrainian Volhynia](https://wolhynien.de/images/Karte_OstWolhynien_Stumpp.gif)
+
