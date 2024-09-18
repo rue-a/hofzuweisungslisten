@@ -90,7 +90,10 @@ Compiling this information, we think that the column Lager\_lt\_Vomi denotes the
 (Die Umsiedlung der Wolhyniendeutschen in den Jahren 1939 bis 1940, Stephan Döring, 2001, p. 335 ff.)
 
 
-## Related Data
+## Related (Geo)Data
+
+> [!NOTE]
+> You are invited to contribute to this section.
 
 ### Historical administrative units of Galicia 1857–1910 
 
@@ -102,18 +105,19 @@ Compiling this information, we think that the column Lager\_lt\_Vomi denotes the
 - Geodata, Shapefiles
 - https://doi.org/10.13020/146x-1412
 
-### Map of German Settlements in Galicia
+### Maps of German Settlements in Galicia
 
 - Image file, non-georeferenced
-- CC BY-NC-SA 3.0 license
-- [Map](https://semanchuk.com/gen/maps/UnterschutzGalizienDeutscheMap.png)
-- [Map index](https://semanchuk.com/gen/maps/UnterschutzIndex.html)
+- [Galicia 1939](https://semanchuk.com/gen/maps/UnterschutzGalizienDeutscheMap.png), [Map index](https://semanchuk.com/gen/maps/UnterschutzIndex.html)
+- [Galicia 1913, high resolution](https://maps.geshergalicia.org/special/galicia-german-settlement-1913/)
 
 
 ### Maps of German Settlements in Volhynia
 
 - Image files, non-georeferenced
-- CC BY-NC-SA 3.0 license
-- [Polish Volhynia](https://wolhynien.de/images/Lueck1927_gr.jpg)
-- [Ukrainian Volhynia](https://wolhynien.de/images/Karte_OstWolhynien_Stumpp.gif)
+- [Polish Volhynia 1927](https://wolhynien.de/images/Lueck1927_gr.jpg)
+- [Ukrainian Volhynia 1927](https://wolhynien.de/images/Karte_OstWolhynien_Stumpp.gif)
 
+### Other
+
+- [Gesher Galicia](https://www.geshergalicia.org/) Gesher Galicia is a non-profit organization carrying out Jewish genealogical and historical research on Galicia
