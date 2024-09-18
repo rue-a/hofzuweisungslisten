@@ -114,6 +114,6 @@ Compiling this information, we think that the column Lager\_lt\_Vomi denotes the
 
 - Image files, non-georeferenced
 - CC BY-NC-SA 3.0 license
-- [Polish volhynia](https://wolhynien.de/images/Lueck1927_gr.jpg)
+- [Polish Volhynia](https://wolhynien.de/images/Lueck1927_gr.jpg)
 - [Ukrainian Volhynia](https://wolhynien.de/images/Karte_OstWolhynien_Stumpp.gif)
 
