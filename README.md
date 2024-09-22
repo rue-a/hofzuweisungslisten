@@ -1,18 +1,18 @@
-> [!WARNING] 
-> _Work in Progress_
-
 # Hofzuweisungslisten
 
 This repository is used to manage the dataset __Hofzuweisungslisten.csv__. It documents resettlement campaigns of Volhynian, Galician, and Narew Germans (stemming from regions in today's western Ukraine, western Belarus, and southern and eastern Poland) into former Polish territories, during 1939 and 1940.
 
 The dataset was derived from around 750 scanned pages containing mostly tabular data (see *[Preprocessing](/Preprocessing/)* folder for more information). The orignial scans were downloaded from the [state archive Łódź](https://www.lodz.ap.gov.pl/).
 
+> [!IMPORTANT]
+>
+> This dataset is not exhaustive. The 750 source pages do not cover all resettlements. For example, according to Stephan Döring (Die Umsiedlung der Wolhyniendeutschen in den Jahren 1939 bis 1940, Stephan Döring, 2001, p. 341) there were about 66,000 resettlements from Volhynia, while this dataset documents only about 20,000 of them. In addition, only 8 resettlements from the Narew region are documented.
+
 ## Further Context
 
 In 1939/1940, the propaganda slogan Heim ins Reich (en: back home to the Reich) called upon numerous German-speaking population groups from Eastern and South-Eastern Europe to resettle in areas within the borders of the German Reich. However, the majority of these settlers were not granted land in the heartland but in the annexed territories. This “Germanization” of the east focused on formerly Polish territories, such as the Reichsgauen Wartheland (“Warthegau”) and Danzig-West Prussia. However, before the settlers were granted any land, they were placed in camps and  underwent racial profiling, which (in essence) ascertained their degree of “Germaness”. If deemed insufficient, “inferior” settlers were deployed as cheap workforce in the heartland (Stephan Döring: Umsiedlung der Wolhyniendeutschen in den Jahren 1939 bis 1940). Conversly, the settlement of “racially acceptable” returnees was meticulously planned—often there were only a few hours between the expulsion of the former Polish owners from their farms and the arrival of the German settlers. Most of the expelled Poles were deported into the Generalgouvernement.
 
 The resettlement campaigns were administered by the “Volksdeutsche Mittelstelle” (Vomi). Coordination and documentation was realized through so-called “Hofzuweisungslisten” (en: farm allocation lists). These were preprinted tabular forms, including the date of settlement, the settlement village, the names and family size of the settlers as well as those of the expelled former inhabitants, the settlers' place of origin and the camp in which the settlers lived. The columns of preprints were filled using typewriters some days ahead of the relocation of a family from the camp to their new homestead.
-
 
 
 ## Dataset Description
