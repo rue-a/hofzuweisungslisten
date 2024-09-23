@@ -94,10 +94,7 @@ Compiling this information, we think that the column Lager\_lt\_Vomi denotes the
 
 
 
-## Related (Geo)Data
-
-> [!NOTE]
-> You are invited to contribute to this section.
+## Related Data
 
 ### Historical administrative units of Galicia 1857–1910 
 
