@@ -96,7 +96,7 @@ Compiling this information, we think that the column Lager\_lt\_Vomi denotes the
 
 ## Related Data
 
-### European level overview of mirgration processes from 1939 to 1943
+### European level overview of migration processes from 1939 to 1943
 
 - Mass relocations of populations in 1938–1943. Violent exchanges and relocations of populations during Nazi expansion in Central Europe
 - https://cha.fsv.cvut.cz/en/mapp.php?map=4Cc
